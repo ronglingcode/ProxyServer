@@ -17,7 +17,8 @@ app.use(bodyParser.json());
 // app.use(express.static('public'))
 
 // Routes
-app.use('/tradeStationApi', require('./routes/tradeStation'))
+app.use('/tradeStationApi', require('./routes/tradeStation'));
+app.use('/schwabApi', require('./routes/schwab'));
 
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`))

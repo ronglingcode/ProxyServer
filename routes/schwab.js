@@ -4,15 +4,16 @@ const router = express.Router()
 
 router.use(express.json())
 
-router.post('/oauth/token', async (req, res) => {
+router.post('/v1/oauth/token', async (req, res) => {
     try {
         const reqBody = req.body;
         console.log(req.body);
-        let authUrl = 'https://signin.tradestation.com/oauth/token';
+        let authUrl = 'https://api.schwabapi.com/v1/oauth/token';
         let authResponse = await fetch(authUrl, {
             method: 'POST',
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded",
+                "Authorization": req.header("Authorization")
             },
             body: new URLSearchParams(reqBody)
         });
@@ -23,3 +24,5 @@ router.post('/oauth/token', async (req, res) => {
         res.status(500).json({ error })
     }
 })
+
+module.exports = router
