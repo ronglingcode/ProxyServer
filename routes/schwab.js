@@ -1,8 +1,35 @@
 const url = require('url')
 const express = require('express')
 const router = express.Router()
+const needle = require('needle')
 
 router.use(express.json())
+
+const axios = require('axios');
+
+
+
+const Trader_API_Host = "https://api.schwabapi.com/trader/v1";
+router.get('/accounts', async (req, res) => {
+    console.log(`request`);
+    let apiUrl = `${Trader_API_Host}/accounts`;
+    try {
+        let requestUrl = `${apiUrl}`;
+        console.log(`send request to ${requestUrl}`);
+
+        let token = req.header('Authorization');
+        let a = await needle('get', requestUrl, {
+            headers: {
+                'Authorization': token,
+            }
+        })
+        let data = a.body;
+        console.log(`send with ${token}`)
+        res.status(200).json(data)
+    } catch (error) {
+        res.status(500).json({ error })
+    }
+});
 
 router.post('/v1/oauth/token', async (req, res) => {
     try {
