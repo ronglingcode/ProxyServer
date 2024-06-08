@@ -56,14 +56,7 @@ router.get('/accounts/:accountid/orders', async (req, res) => {
 router.post('/accounts/:accountid/orders', async (req, res) => {
     try {
         let accountId = req.params.accountid;
-
         const reqBody = req.body;
-
-        let overrideBody = {
-            "orderType": "LIMIT", "session": "NORMAL", "duration": "DAY", "orderStrategyType": "SINGLE", "price": '10.00',
-            "orderLegCollection": [
-                { "instruction": "BUY", "quantity": 1, "instrument": { "symbol": "INTC", "assetType": "EQUITY" } }]
-        };
         let ordersUrl = `${Trader_API_Host}/accounts/${accountId}/orders`;
         let ordersResponse = await fetch(ordersUrl, {
             method: 'POST',
@@ -72,7 +65,7 @@ router.post('/accounts/:accountid/orders', async (req, res) => {
                 "Content-Type": "application/json",
                 "Authorization": req.header("Authorization")
             },
-            body: JSON.stringify(overrideBody)
+            body: JSON.stringify(reqBody)
         });
         let returnData = {
             orderId: -1,
