@@ -33,6 +33,71 @@ router.get('/accounts', async (req, res) => {
         res.status(500).json({ error })
     }
 });
+router.get('/accounts/:accountid/orders', async (req, res) => {
+    console.log(`request`);
+
+    try {
+        let accountId = req.params.accountid;
+        let apiUrl = `${Trader_API_Host}/accounts/${accountId}/orders`;
+        const params = new URLSearchParams({
+            ...url.parse(req.url, true).query,
+        })
+        let requestUrl = `${apiUrl}?${params}`;
+        console.log(`send request to ${requestUrl}`);
+
+        let token = req.header('Authorization');
+        let a = await needle('get', requestUrl, {
+            headers: {
+                'Authorization': token,
+            }
+        })
+        let data = a.body;
+        console.log(`send with ${token}`)
+        res.status(200).json(data)
+    } catch (error) {
+        res.status(500).json({ error })
+    }
+});
+
+router.post('/accounts/:accountid/orders', async (req, res) => {
+    try {
+        let accountId = req.params.accountid;
+
+        const reqBody = req.body;
+
+        let overrideBody = {
+            "orderType": "LIMIT", "session": "NORMAL", "duration": "DAY", "orderStrategyType": "SINGLE", "price": '10.00',
+            "orderLegCollection": [
+                { "instruction": "BUY", "quantity": 1, "instrument": { "symbol": "INTC", "assetType": "EQUITY" } }]
+        };
+        let ordersUrl = `${Trader_API_Host}/accounts/${accountId}/orders`;
+        let ordersResponse = await fetch(ordersUrl, {
+            method: 'POST',
+            headers: {
+                Accept: "application/json",
+                "Content-Type": "application/json",
+                "Authorization": req.header("Authorization")
+            },
+            body: JSON.stringify(overrideBody)
+        });
+        let returnData = {
+            orderId: -1,
+        }
+        let orderLocation = ordersResponse.headers.get('location');
+        if (orderLocation) {
+            let orderLocationParts = orderLocation.split('/');
+            if (orderLocationParts.length > 0) {
+                returnData.orderId = orderLocationParts[orderLocationParts.length - 1];
+            }
+        }
+        console.log(returnData);
+        res.status(200).json(returnData);
+    } catch (error) {
+        console.log(`error response`);
+        console.log(error);
+        res.status(500).json({ error })
+    }
+});
 
 router.post('/v1/oauth/token', async (req, res) => {
     try {
