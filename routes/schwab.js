@@ -99,6 +99,26 @@ router.post('/accounts/:accountid/orders', async (req, res) => {
     }
 });
 
+router.delete('/accounts/:accountid/orders/:orderid', async (req, res) => {
+    console.log(`cancel order request`);
+
+    try {
+        let accountId = req.params.accountid;
+        let orderId = req.params.orderid;
+        let requestUrl = `${Trader_API_Host}/accounts/${accountId}/orders/${orderId}`;
+        let token = req.header('Authorization');
+        let apiResponse = await needle('delete', requestUrl, {
+            headers: {
+                'Authorization': token,
+            }
+        })
+        let data = apiResponse.body;
+        res.status(apiResponse.statusCode).json(apiResponse.body)
+    } catch (error) {
+        res.status(500).json({ error })
+    }
+});
+
 router.post('/v1/oauth/token', async (req, res) => {
     try {
         const reqBody = req.body;
