@@ -11,14 +11,12 @@ const axios = require('axios');
 
 const Trader_API_Host = "https://api.schwabapi.com/trader/v1";
 router.get('/accounts', async (req, res) => {
-    console.log(`request`);
     let apiUrl = `${Trader_API_Host}/accounts`;
     try {
         const params = new URLSearchParams({
             ...url.parse(req.url, true).query,
         })
         let requestUrl = `${apiUrl}?${params}`;
-        console.log(`send request to ${requestUrl}`);
 
         let token = req.header('Authorization');
         let a = await needle('get', requestUrl, {
@@ -27,15 +25,12 @@ router.get('/accounts', async (req, res) => {
             }
         })
         let data = a.body;
-        console.log(`send with ${token}`)
         res.status(200).json(data)
     } catch (error) {
         res.status(500).json({ error })
     }
 });
 router.get('/accounts/:accountid/orders', async (req, res) => {
-    console.log(`request`);
-
     try {
         let accountId = req.params.accountid;
         let apiUrl = `${Trader_API_Host}/accounts/${accountId}/orders`;
@@ -43,7 +38,6 @@ router.get('/accounts/:accountid/orders', async (req, res) => {
             ...url.parse(req.url, true).query,
         })
         let requestUrl = `${apiUrl}?${params}`;
-        console.log(`send request to ${requestUrl}`);
 
         let token = req.header('Authorization');
         let a = await needle('get', requestUrl, {
@@ -119,6 +113,38 @@ router.delete('/accounts/:accountid/orders/:orderid', async (req, res) => {
             res.status(apiResponse.statusCode).json(apiResponse.body)
         } else {
             res.status(apiResponse.statusCode).send(apiResponse.body)
+        }
+    } catch (error) {
+        res.status(500).json({ error })
+    }
+});
+router.put('/accounts/:accountid/orders/:orderid', async (req, res) => {
+    console.log(`replace order request`);
+
+    try {
+        let accountId = req.params.accountid;
+        let orderId = req.params.orderid;
+        const reqBody = req.body;
+        console.log(reqBody)
+        let requestUrl = `${Trader_API_Host}/accounts/${accountId}/orders/${orderId}`;
+        console.log(requestUrl);
+        let apiResponse = await fetch(requestUrl, {
+            method: 'PUT',
+            headers: {
+                Accept: "application/json",
+                "Content-Type": "application/json",
+                "Authorization": req.header("Authorization")
+            },
+            body: JSON.stringify(reqBody)
+        });
+        let data = await apiResponse.json();
+        console.log(data);
+        let statusCode = apiResponse.status;
+        console.log(statusCode);
+        if (statusCode == 200) {
+            res.status(statusCode).json(data)
+        } else {
+            res.status(statusCode).send(data)
         }
     } catch (error) {
         res.status(500).json({ error })
