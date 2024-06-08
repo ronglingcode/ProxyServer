@@ -107,7 +107,7 @@ router.delete('/accounts/:accountid/orders/:orderid', async (req, res) => {
         let orderId = req.params.orderid;
         let requestUrl = `${Trader_API_Host}/accounts/${accountId}/orders/${orderId}`;
         let token = req.header('Authorization');
-        let apiResponse = await needle('delete', requestUrl, {
+        let apiResponse = await needle('delete', requestUrl, null, {
             headers: {
                 'Authorization': token,
             }
