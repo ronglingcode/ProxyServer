@@ -113,7 +113,13 @@ router.delete('/accounts/:accountid/orders/:orderid', async (req, res) => {
             }
         })
         let data = apiResponse.body;
-        res.status(apiResponse.statusCode).json(apiResponse.body)
+        console.log(data);
+        let statusCode = apiResponse.statusCode;
+        if (statusCode == 200) {
+            res.status(apiResponse.statusCode).json(apiResponse.body)
+        } else {
+            res.status(apiResponse.statusCode).send(apiResponse.body)
+        }
     } catch (error) {
         res.status(500).json({ error })
     }
