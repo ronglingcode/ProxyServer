@@ -14,7 +14,10 @@ router.get('/accounts', async (req, res) => {
     console.log(`request`);
     let apiUrl = `${Trader_API_Host}/accounts`;
     try {
-        let requestUrl = `${apiUrl}`;
+        const params = new URLSearchParams({
+            ...url.parse(req.url, true).query,
+        })
+        let requestUrl = `${apiUrl}?${params}`;
         console.log(`send request to ${requestUrl}`);
 
         let token = req.header('Authorization');
