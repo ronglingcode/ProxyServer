@@ -38,7 +38,7 @@ router.get('/accounts/:accountid/orders', async (req, res) => {
             ...url.parse(req.url, true).query,
         })
         let requestUrl = `${apiUrl}?${params}`;
-
+        console.log(requestUrl);
         let token = req.header('Authorization');
         let a = await needle('get', requestUrl, {
             headers: {
