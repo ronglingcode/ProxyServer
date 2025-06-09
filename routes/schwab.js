@@ -10,6 +10,22 @@ const axios = require('axios');
 
 
 const Trader_API_Host = "https://api.schwabapi.com/trader/v1";
+router.get('/userPreference', async (req, res) => {
+    let requestUrl = `${Trader_API_Host}/userPreference`;
+    try {
+        let token = req.header('Authorization');
+        let a = await needle('get', requestUrl, {
+            headers: {
+                'Authorization': token,
+            }
+        })
+        let data = a.body;
+        res.status(200).json(data)
+    } catch (error) {
+        console.error("Error fetching user preference:", error);
+        res.status(500).json({ error: "Failed to fetch user preference" });
+    }
+});
 router.get('/accounts', async (req, res) => {
     let apiUrl = `${Trader_API_Host}/accounts`;
     try {
