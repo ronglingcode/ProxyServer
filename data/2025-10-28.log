@@ -1,0 +1,12 @@
+[08:53:31.845] rongling
+[08:53:31.847] post order
+[08:53:31.860] cancel order request
+08:53:32.780
+{
+  "orderId": "1004531339303"
+}
+08:53:33.031
+{
+  "type": "Buffer",
+  "data": []
+}
