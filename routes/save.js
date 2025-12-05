@@ -130,6 +130,31 @@ router.post('/agentresponse', async (req, res) => {
             response,
             millisecondsSinceMarketOpen
         } = req.body;
+        // Validate required fields
+        if (!symbol || response === undefined ||
+            millisecondsSinceMarketOpen === undefined) {
+            return res.status(400).json({
+                error: 'Missing required fields',
+                required: ['symbol', 'response', 'millisecondsSinceMarketOpen']
+            });
+        }
+
+        // Create data directory if it doesn't exist
+        const dataDir = path.join(__dirname, '..', 'data', 'agentresponse');
+        await ensureDirectoryExists(dataDir);
+
+        // Generate filename using date and symbol
+        const filename = `${getTodayDate()}_agentresponse_${symbol.toUpperCase()}.txt`;
+        const filepath = path.join(dataDir, filename);
+
+        // Append data to file
+        await appendToFile(filepath, `${response},${millisecondsSinceMarketOpen}`);
+
+        res.status(200).json({
+            message: 'Agent response saved successfully',
+            symbol: symbol,
+            filename: filename
+        });
     } catch (error) {
         console.error('Error saving agent response:', error);
         res.status(500).json({ error });
