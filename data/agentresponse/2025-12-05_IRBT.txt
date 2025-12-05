@@ -1,0 +1,58 @@
+06:36:03
+- **[Price Action Insight]**: Price is holding above both VWAP and the inflection level, indicating bullish momentum. It has tested VWAP, bounced back, and is now nearing the premarket high of $3.83.
+
+- **[Trade Management]**: Maintain the long position as the trade condition to fail hasn't been triggered. Consider taking partial profits at the premarket high of $3.83. Keep a close eye on VWAP; if a full candle closes below it after partials are taken, consider adjusting the stop loss below VWAP.
+06:37:03
+- [Trade Analysis]: The price has successfully tested and held above both VWAP and the inflection level, confirming the long continuation setup. The current price is nearing the premarket high, a predefined profit target.
+
+- [Trade Management]: Consider taking partial profits near the premarket high of $3.83. Maintain your stop loss as the price is holding above VWAP. If a breakout occurs above $3.83, there may be an opportunity to add back shares.
+06:38:05
+- [Current Price Action]: IRBT is trading above both VWAP and premarket high, indicating strong bullish momentum and a successful breakout.
+
+- [Trade Management]: With partial exits taken and price above the premarket high, hold your remaining position and consider trailing stops below recent one-minute lows to lock in gains. Maintain VWAP as a stop-out if a full candle closes below it.
+
+- [Target Adjustment]: As price surpasses $4.00, monitor for potential resistance at $4.7, the next significant target. Consider taking additional partials if momentum stalls.
+06:39:04
+- **[Current Position Analysis]**: You've successfully taken partial profits above your predefined targets, with a remaining position of 30% or less, giving flexibility in trade management.
+
+- **[Price Action]**: The price is consolidating above the premarket high of 3.83, currently at 4.005, indicating strength and potential for further upside.
+
+- **[Trade Management]**: Maintain the position as long as the price stays above VWAP. Consider moving your stop to the low of recent 5-minute candles for a trailing stop to protect gains while allowing for potential further upside.
+06:40:04
+- [Trade Analysis]: The price is well above VWAP and the inflection level, indicating a strong breakout continuation. The intraday high of $4.05 was tested, suggesting bullish momentum.
+
+- [Market Insight]: The price has retraced slightly from the high but remains above premarket high of $3.83, acting as support.
+
+- [Trade Management]: With 30% of the position remaining, hold and allow flexibility. Only exit if a full one-minute candle closes below VWAP. Consider trailing the stop to the low of the second 5-minute candle at $3.66 to lock in more profits, given the time elapsed since market open.
+06:41:03
+- [Price Action]: IRBT is holding above VWAP and has broken the premarket high of $3.83, indicating bullish momentum.
+- [Trade Management]: With 30% of the position left, hold as long as candles don't close below VWAP. Consider trailing stop to the low of the second 5-minute candle, $3.66. Target the next resistance at $4.00 for further partials.
+06:42:02
+- [Price Action]: The price has broken above the premarket high of $3.83 and is currently holding above it, signaling a strong bullish momentum.
+
+- [Trade Management]: With price holding above premarket high and approaching target 4.00, consider taking partial profits. Since position size is 30% of original, allow flexibility; only stop if a full 1-minute candle closes below VWAP. Maintain initial stop at low of the day $3.46.
+06:43:03
+- [Price Action]: IRBT is maintaining strength above both VWAP and the inflection level, indicating a strong bullish continuation. The price has surpassed the premarket high of $3.83, and the current price is $4.01.
+
+- [Trade Management]: With only 20% of your position left, keep VWAP as your stop. Consider using a trailing stop at the low of the 2nd 5-minute candle ($3.66) to protect profits.  Look for potential exits around the next resistance near the ATR target of $4.15.
+06:44:02
+- [Price Action Insight]: The price is holding well above VWAP and has broken through the premarket high of 3.83, indicating strong bullish momentum.
+
+- [Trade Management]: With only 10% of the original position remaining, maintain leniency with the stop. Trail the stop to just below the low of the current 5-minute candle (around 3.87) to protect profits while allowing for upside potential. Consider taking further profits near 4.7 if momentum continues.
+06:45:03
+- [Price Action]: The price has broken out above the premarket high of $3.83 and reached an intraday high of $4.22, currently consolidating near $4.11.
+
+- [Trade Management]: With the position reduced to 10% of its original size, continue holding as long as the price stays above VWAP. Consider trailing the stop to the low of the last 5-minute candle ($3.861) to lock in profits while allowing room for further upside.
+06:46:06
+- [Price Action]: The price is currently well above VWAP and has reached new intraday highs, indicating strong bullish momentum.
+
+- [Trade Management]: Maintain the position given the bullish strength, considering trailing the stop to just below the recent 5-minute low (around $4.01) to lock in profits while allowing room for further upside.
+
+- [Targets]: With initial targets hit, consider holding the remaining position for a move towards the next target around $4.7, given the bullish continuation.
+06:46:20
+- [Price Action]: IRBT is displaying bullish momentum, breaking above both VWAP and premarket high, with the current price at $4.18.
+- [Trade Management]: Maintain your position as price is above VWAP and inflection level. Consider trailing stop to recent 5-min low at $4.05 to lock in profits while allowing room for continuation.
+06:47:02
+- [Market Analysis]: The current price is significantly above both VWAP and the inflection level, indicating strong bullish momentum. The price has tested both VWAP and the inflection level, confirming support.
+
+- [Trade Management]: With only 10% of the position remaining and the price near intraday highs, consider trailing stop just below recent 5-minute lows to lock in gains, as the price is approaching the next resistance at $4.7. Allow the position to run if momentum continues.

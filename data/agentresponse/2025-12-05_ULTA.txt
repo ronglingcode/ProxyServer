@@ -1,0 +1,268 @@
+06:33:04
+- [Price Action]: The price is holding well above VWAP and the inflection level, indicating bullish strength. The current price is near intraday highs.
+
+- [Trade Management]: Maintain the long position as the price is above VWAP. Consider taking partial profits near the premarket high of $579.96 if reached. Keep an eye on the intraday high for potential resistance, and adjust the stop loss as needed.
+06:34:03
+- [Price Action]: ULTA is sustaining above VWAP and the inflection level, showing strength after a strong open and minor retracement. 
+- [Trade Management]: Maintain long position as price holds above VWAP. Consider partial exits near ATH at $574.76 and premarket high $579.96. Adjust stop loss to $575 if a 1-min candle closes below VWAP.
+06:35:02
+- [Price Action]: ULTA is showing strong momentum, trading above VWAP and making new intraday highs.
+- [Trade Management]: Maintain the long position as price holds above VWAP. Consider partial exits near ATH at $574.76 or when approaching premarket high at $579.96. Keep stop loss at $575.79 unless price closes below VWAP.
+06:36:03
+- [Price action]: The current price at $591.83 is above VWAP and the intraday high, showing continued bullish momentum and a successful breakout above both VWAP and inflection level.
+
+- [Trade management]: With price well above VWAP and no candle closing below it, hold the position. Consider taking partial profits near ATH $594.76 for 10% as per your plan, and the rest based on RRR. Maintain stop-loss at $575.79 as it hasn't tested the inflection level.
+06:37:02
+- [Price Action Insight]: The price remains well above VWAP and inflection level, indicating strong bullish momentum. Current price is approaching ATH of 594.
+
+- [Trade Management]: Hold the long position as the price is above VWAP. Consider partial exits near ATH. Maintain stop loss at $575.79. Watch for a break above ATH for potential continuation.
+06:38:04
+- [Price Action]: The current price remains well above VWAP and the inflection level, suggesting strong bullish momentum.
+
+- [Trade Management]: Maintain the long position as the price hasn't closed below VWAP. Consider taking more partial profits near the ATH of $594, aligning with your predefined target strategy. 
+
+- [Stop Adjustment]: Keep the stop loss at the day's low since the price has tested VWAP, which could act as strong support.
+06:39:05
+- [Price Action Insight]: ULTA is showing strong bullish momentum, with the price well above VWAP and the inflection level, approaching the premarket high.
+- [Trade Management]: Maintain the long position as long as it stays above VWAP. Consider taking partial profits near the premarket high of 579.96 if not already done. If price retraces, look to add back near VWAP, but stop out if a full candle closes below it.
+06:40:07
+- [Current Position]: You're long at $584.41, with a reduced position size, seeing strong upward movement away from VWAP and inflection level, confirming bullish sentiment.
+
+- [Trade Management]: Maintain long; VWAP acts as support. Consider partials near ATH at $574.76 or premarket high $578, and trail stop using the low of the latest 5-minute candle at $588.33 for risk management.
+06:41:09
+- [Market Analysis]: The price is currently holding well above VWAP and has tested it, confirming its support. The intraday high of 594.15 shows strong bullish momentum, supported by volume.
+
+- [Trade Management]: Maintain the long position since the price is above VWAP. Given the current price action, consider taking partial profits around the ATH of 594.15 while watching for a potential breakout above this level. Trailing stops can be set below the recent 5-minute low to protect gains.
+06:42:02
+- **[Price Action Insight]:** The price has consistently stayed above VWAP and the inflection level, indicating strong bullish momentum. It has reached an intraday high of $594.15, suggesting continued strength.
+
+- **[Trade Management]:** With 30% of the position remaining, consider holding as long as price remains above VWAP. Trail stop to the low of the second 5-minute candle ($588.33) to lock in profits while allowing room for price fluctuations.
+06:43:02
+- **[Price Action]**: ULTA is consolidating above VWAP and the premarket high, maintaining a bullish pattern. The current price of $591.685 is within the intraday high range.
+
+- **[Trade Management]**: Maintain your current position as price is holding above VWAP, indicating continued strength. Consider taking partial profits at ATH of $574.76 or if price approaches the intraday high of $594.15. Trail stop to the low of the 2nd 5-minute candle ($588.33) as additional protection.
+06:44:02
+- [Price Action]: ULTA is trading well above VWAP and the inflection level, indicating strong bullish momentum.
+
+- [Trade Management]: With the position reduced to 30%, hold the remaining shares as long as the price doesn't close a full candle below VWAP. Consider trailing the stop to the low of the second 5-minute candle (588.33) for more flexibility, aligning with your strategy.
+06:45:03
+- [Price Action]: ULTA is above VWAP and inflection level, maintaining an uptrend with a high of 594.15. Currently, it's consolidating around recent highs with some retracement.
+  
+- [Trade Management]: Maintain the long position as the price is above VWAP. Consider taking additional partial profits near ATH, 594.15. Since the position is reduced to less than 30%, trail stop to close below VWAP on a 1-minute candle, allowing for more fluctuations.
+06:46:08
+- [Price Action Insight]: Price remains above VWAP and the inflection level, maintaining a bullish stance. The price is consolidating after a strong upward move, indicating potential for continuation.
+
+- [Trade Management]: With partial exits already taken, allow room for fluctuation. Retain stop at VWAP ($586) as price holds above it. Consider taking further partials if price approaches ATH ($594.15) or premarket high ($579.96). Tighten stop if a 1-minute candle closes below VWAP.
+06:46:22
+- [Price Action]: ULTA is showing strength as it remains above VWAP and has recently reached an intraday high of 594.15, suggesting bullish momentum.
+
+- [Trade Management]: With 33 shares left, consider maintaining the position as long as the price stays above VWAP. Since the position is reduced to 30% or less, only exit if a full 1-minute candle closes below VWAP.
+
+- [Target & Trailing]: With the current price at 593.08, monitor for a breakout above the intraday high (594.15) and premarket high (579.83) for further gains. Trail stop to the low of the 2nd 5-minute candle (588.33) due to time elapsed since open.
+06:47:02
+- [Current Price Action]: Price is above VWAP and consolidating between intraday high and 15-minute candle close, showing strong bullish momentum.
+
+- [Trade Management]: With 30% of the position left, and price above VWAP, remain in the trade. Consider taking partials near ATH at $574.76 and trail stop to the low of the second 5-minute candle ($589.995).
+06:48:05
+- **[Price Action Insight]**: ULTA is showing strong upward momentum, with the current price at $594.2, well above VWAP and the inflection level. The price has tested VWAP since open, but continues to rise, forming new intraday highs.
+
+- **[Target Management]**: With the ATR at 15 and approaching ATH, consider taking further partial profits as it nears the ATH of $596.9.
+
+- **[Stop Management]**: With only 22 shares left (less than 30% of the initial position), keep a lenient stop; only exit if a full 1-minute candle closes below VWAP to allow flexibility for continued upward movement. 
+
+- **[5-minute Candle Insight]**: Use the low of the second 5-minute candle ($588.33) as a trailing stop for further safety given the time elapsed since open.
+06:49:12
+- [Current Setup]: Price is above VWAP and inflection level, confirming a strong long setup. The intraday high of 596.9 acts as resistance.
+
+- [Trade Management]: With 22 shares left, maintain the position since the price is above VWAP. Consider moving the stop loss to just below the 15-minute candle low at 588.33 for tighter risk management.
+
+- [Targets]: Aim for the previous intraday high of 596.9 as the next target. If it breaks, look for higher potential gains.
+06:50:05
+- [Current Status]: The position is significantly reduced, with 22 shares remaining, and the stock is trading well above VWAP at $586.85.
+- [Trend Analysis]: The price reached an intraday high of $596.9 and has been consolidating slightly above VWAP.
+- [Trade Management]: Allow flexibility; only exit if a 1-minute candle closes below VWAP, as the position is under 30% of the original size.
+- [Targets]: Monitor for a breakout above the intraday high of $596.9; consider taking additional profit if it approaches ATH ($574.76) or new highs.
+06:51:06
+- [Current Position]: ULTA is trading above VWAP and the inflection level, maintaining the momentum from a strong opening.
+
+- [Trade Management]: With only 22 shares left, allow more flexibility. Given the rule for reduced positions, maintain the position unless a full 1-minute candle closes below VWAP.
+
+- [Targets]: Consider taking partials near ATH at 596.9 if the price approaches again, given the recent test of this level.
+
+- [Trailing Stop]: Since it's been over 20 minutes, use the low of the 5-minute candles as a trailing stop. Currently, this would be the low of the 06:50 candle at 590.415.
+
+- [Market Insight]: Volume is decreasing, so watch for consolidation or breakout near ATH for further action.
+06:52:03
+- [Current Price Action]: The price is holding above the VWAP and has recently reached a new intraday high of 596.9, indicating strong bullish momentum.
+
+- [Trade Management]: With only 22 shares remaining (less than 30% of the original position), apply the lenient stop-out rule: only exit if a full 1-minute candle closes below VWAP. Consider trailing the stop to the low of the most recent 5-minute candle at 592.085 for further protection while allowing the position to run.
+06:53:03
+- [Trade Setup]: ULTA opened above VWAP and inflection, confirming a long setup. The current price is maintaining above VWAP, aligning with the Long VWAP Continuation strategy.
+
+- [Price Action]: Price is consolidating above premarket high and approaching ATH, indicating strength and potential for further breakout.
+
+- [Trade Management]: With only 22 shares remaining, allow flexibility. Maintain the position until a full 1-minute candle closes below VWAP. Consider taking additional profits near ATH or set trailing stops based on recent 5-minute lows for dynamic risk management.
+06:54:03
+- [Current Position]: With only 22 shares remaining, the position has been reduced to less than 30% of the original size, allowing for more lenient stop-out criteria.
+
+- [Price Action]: Price is above VWAP and approaching the intraday high, indicating continued bullish momentum.
+
+- [Trade Management]: Allow the position to ride, targeting the all-time high (ATH) and beyond. Only exit if a full one-minute candle closes below VWAP, considering the lenient stop-out rule due to your reduced position size.
+06:55:03
+- [Current Price Action]: The price is holding well above VWAP and is nearing the intraday high, indicating strength in the upward continuation.
+
+- [Trade Management]: With only 22 shares left, maintain the position as long as the price does not close a full candle below VWAP. Consider tightening the stop to just below the last 5-minute candle low ($590.415) to lock in gains. Look to take further partials at or near the intraday high ($597.13).
+06:56:03
+- [Price Action]: The price remains significantly above VWAP and inflection level, indicating strength. The current price is near the intraday high, suggesting bullish momentum.
+
+- [Trade Management]: With only 22 shares remaining, allow flexibility. Maintain the position unless a full candle closes below VWAP. Consider using the low of the second 5-minute candle for a trailing stop, currently at $590.415. Look for further gains towards ATH at $597.13 and beyond.
+06:57:06
+- [Current Price Action]: Price is trading well above VWAP and the inflection level, indicating strong upward momentum. The intraday high was recently tested, suggesting continued bullish interest.
+
+- [Trade Management]: With the position reduced to 22 shares, consider maintaining flexibility. Allow for fluctuations and only consider exiting if a full 1-minute candle closes below VWAP. Adjust the stop to trail the low of the second 5-minute candle if the price continues to hold above VWAP. 
+
+- [Profit Targets]: Continue holding for potential tests of ATH and higher given the current bullish trend, while being cautious of any close below VWAP.
+06:58:04
+- [Current Position]: You're holding a small partial position (11 shares) after significant partial exits, with a strong price move above VWAP and premarket high.
+
+- [Price Action Insight]: The current price is consolidating below the intraday high of 597.14, showing bullish momentum as it remains well above VWAP and inflection level.
+
+- [Trade Management]: Maintain your position as the price is above VWAP. Consider trailing your stop to just below the 5-minute candle low of 594.5 for risk management. Look for a breakout above the intraday high for potential further gains.
+06:59:03
+- [Market Structure]: ULTA has shown strong bullish momentum, with the price consistently above VWAP and reaching a new intraday high of 597.14.
+
+- [Position Management]: With only 11 shares left, maintain the position as the price remains above VWAP. Use a trailing stop at the low of the last 5-minute candle, around 592.3, to lock in gains while allowing for upward movement.
+
+- [Target Management]: The current price is below the premarket high of 579.83, and given the bullish trend, consider holding until further strength is confirmed. If price approaches ATH (574.76), consider taking additional profits.
+07:00:10
+- **[Current Position Status]**: You have a small remaining position (11 shares), indicating significant partial exits have been taken. Your entry is well above the current price, suggesting a successful trade thus far.
+
+- **[Above VWAP & Inflection]**: The price remains significantly above VWAP and the inflection level, showing strength and continued bullish momentum.
+
+- **[Current Price Action]**: The price is slightly below the premarket high but remains strong after reaching an intraday high of 597.14, which is above the ATH of 574.76.
+
+- **[Trade Management]**: Allow flexibility with the remaining position; since the partial size is reduced, use a more lenient stop. Only exit if a full one-minute candle closes below VWAP, aligning with the strategy's rules.
+
+- **[Targeting]**: With the price near the premarket high, consider taking profits if it attempts another breakout above this level, while keeping an eye on any ATH breakout for further exits.
+07:01:18
+- [Current Position]: You're holding 11 shares, with substantial partial exits taken, indicating reduced risk.
+
+- [Performance]: Price made a new intraday high at $597.14 before retracing but remains well above VWAP and inflection level, showing strength.
+
+- [Trade Management]: As the position is reduced to 30% of the original size, avoid stopping out on the first dip below VWAP unless a full candle closes below it, allowing room for fluctuation.
+
+- [Target Adjustment]: Consider tightening stops below recent price support levels near $591.50, as price consolidates.
+
+- [Exit Strategy]: With only 11 shares left, consider exiting near ATH of $597.14 if tested again or upon signs of reversal.
+07:02:10
+- [Current Position]: You're holding 11 shares, a small fraction of your initial position, allowing more flexibility with stops.
+
+- [Price Action]: Price remains above VWAP and has not tested inflection level, maintaining bullish bias.
+
+- [Trade Management]: Consider using a trailing stop below the low of the 2nd 15-minute candle ($588.33) for flexibility. Continue holding as long as price stays above VWAP, and look for potential add backs if it dips near VWAP without closing below it.
+07:03:05
+- [Current Position]: Price is consolidating just below intraday high after a strong upward move, maintaining above VWAP and inflection level, indicating bullish strength.
+
+- [Trade Management]: With only 11 shares remaining, consider holding to see if it breaks the intraday high of 597.14. Keep stop loss flexible, using VWAP as a trailing stop, only exiting if a full candle closes below VWAP to avoid premature exits.
+07:04:08
+- [Price Action]: The price remains above VWAP, maintaining a bullish stance. The current price of $594.34 is below the intraday high but above the premarket high, suggesting a strong upward momentum.
+
+- [Trade Management]: As long as the price stays above VWAP, remain in the long position. With only 11 shares left, allow more flexibility with stop losses; only exit if a full 1-minute candle closes below VWAP. Consider taking partial profits if the price nears the all-time high or surpasses it.
+07:05:03
+- [Price Action Insight]: ULTA has been trading above VWAP and near its intraday high, indicating strong bullish momentum. The premarket high of $579.83 has been surpassed, aligning with the setup for a VWAP continuation long.
+
+- [Trade Management]: With only 11 shares remaining, allow the position more room to fluctuate. Since a full candle has not closed below VWAP, maintain the position. Consider trailing stop below the low of the latest 15-minute candle ($592.7966) to lock in gains while giving the trade room to move higher.
+07:06:02
+- [Current Price Action]: Price is near the intraday high of $598.35, showing strong bullish momentum above VWAP and inflection levels.
+- [Trade Management]: With only 11 shares left, allow the position to ride the momentum. Consider moving the stop to just below the recent 5-minute low at $593 to protect profits and maximize gains if the price continues upward.
+07:07:07
+- [Current Position Status]: With only 11 shares remaining, your position is reduced to less than 30% of the initial size. This allows for more flexibility with stop-out criteria.
+
+- [Price Action]: The price is currently at $599.045, above VWAP and inflection level, indicating strong bullish momentum.
+
+- [Target Management]: Consider holding the remaining shares for further potential upside, given the breakout above premarket high and nearing ATH.
+
+- [Stop Management]: Keep a lenient stop; only exit if a full 1-minute candle closes below VWAP, as per the flexible criteria for reduced positions. 
+
+- [Momentum Confirmation]: Strong volume and price above VWAP suggest continuation; look for potential new highs.
+07:08:13
+- **[Current Trend]**: Price is trending upwards, approaching intraday highs with steady volume. The current price is $598.55, nearing the intraday high of $599.39.
+
+- **[Partial Position Management]**: With only 11 shares remaining, allow flexibility. Consider holding for potential breakout above intraday high, with stop at low of the previous 5-minute candle ($596.12).
+
+- **[VWAP Consideration]**: Price is well above VWAP, maintaining long bias. No immediate threat to fail condition as the price hasn't tested VWAP recently.
+
+- **[Profit Target]**: Next target is ATH at $574.76. Consider taking partials or exiting if price reaches or surpasses this level for maximum gain.
+
+- **[Trailing Stop]**: Adjust stop to $596.12 (low of the second 5-minute candle since 30-minute mark) to protect gains while allowing for upside potential.
+07:09:03
+- **[Current Price Action]**: ULTA is consolidating after reaching an intraday high of 599.39, currently trading at 596.41, well above VWAP and the inflection level.
+
+- **[Trade Management]**: With only 11 shares remaining, maintain the position as long as the price holds above VWAP. Use a trailing stop at the low of the last 5-minute candle (596.12), allowing room for potential upside continuation.
+07:10:06
+- **[Current Position Status]**: Holding 11 shares, with significant partial exits, which means we can afford to be more lenient with stops.
+
+- **[Price Action]**: Price has tested VWAP and is currently trading above it, consolidating just below intraday highs.
+
+- **[Trade Management]**: With price above VWAP and no 1-minute candle closing below it, maintain the position and consider a trailing stop using the low of the most recent 5-minute candle. Continue monitoring for a breakout above the intraday high for further gains.
+07:11:03
+- [Price Action]: ULTA is consolidating just below the intraday high of $599.39 after a strong upward move, currently trading at $594.15.
+- [Trade Management]: With only 11 shares remaining, keep the stop loss flexible. Consider trailing the stop to the low of the latest 15-minute candle at $593, as price holds above VWAP. Adjust if a candle closes below VWAP.
+07:12:16
+- [Current Position Status]: You've taken significant profit; remaining position is minimal (11 shares).
+
+- [Price Action]: Current price at $596.14, above VWAP and inflection level, indicating bullish momentum remains strong.
+
+- [Trade Management]: With only 11 shares left, consider holding for potential further gains as price is well above VWAP. Keep stop loss at $575.79 unless a 1-minute candle closes below VWAP.
+
+- [Profit Targets]: Monitor for a breakout above the intraday high of $599.39 for additional profit-taking opportunities.
+07:13:13
+- **[Price Action Insight]**: ULTA is consolidating above VWAP and the premarket high, maintaining a strong upward momentum. The current price is near the intraday high, indicating bullish strength.
+
+- **[Trade Management]**: With only 11 shares remaining, let the position ride as the price is well above VWAP and hasn't closed below it. Consider setting a trailing stop at the low of the last 5-minute candle ($595) to lock in profits while allowing for potential further gains.
+07:14:11
+- [Price action]: ULTA has been making higher highs and higher lows, trading well above VWAP, indicating a strong bullish trend.
+- [Trade management]: With only 11 shares left, hold your position as price is well above VWAP and approaching ATH. Consider an adjusted stop below a significant support level like $594 to allow room for fluctuation without premature exit.
+07:14:50
+- **[Trade Overview]**: Price is well above VWAP and inflection level, indicating strong bullish momentum. The price recently reached an intraday high of 599.39.
+
+- **[Trade Management]**: With only 5 shares left, let the position run as a free trade, moving the stop loss to the break-even point or higher. Consider taking profits near the ATH of 574.76 or let it ride for potential further gains.
+
+- **[Market Context]**: The price has shown resilience above the premarket high and has retested VWAP, confirming its role as support. This aligns with your long VWAP continuation strategy.
+
+- **[Actionable Suggestion]**: Monitor for any sign of weakness below VWAP or a significant pullback before considering additional exits or adjustments. Current momentum suggests holding for further upside potential.
+07:15:03
+- [Current Position]: Holding 5 shares, price is above VWAP and intraday high, maintaining long bias.
+  
+- [Price Action]: Price is near all-time high (ATH) and above premarket high, showing potential for further upward movement.
+
+- [Trade Management]: With only 5 shares left, allow flexibility; hold unless a full candle closes below VWAP. Consider trailing stop under recent 5-minute lows.
+07:18:04
+- [Price Action]: ULTA has maintained strength with a recent high of 604.9, well above both VWAP and the inflection level. 
+
+- [Retracement to VWAP]: The price has not tested the inflection level but has tested VWAP, confirming support.
+
+- [Trade Management]: With only 1 share remaining, continue holding as a full candle closing below VWAP is required to consider a stop-out. Given the recent high, consider this a trailing stop scenario.
+07:19:02
+- [Current Position]: You have 1 share remaining, allowing flexibility in trade management as per your strategy.
+
+- [Price Action]: Price is above VWAP and intraday high, showing strong bullish momentum.
+
+- [Trade Management]: Maintain the position as long as price stays above VWAP. Consider adjusting the stop to the low of the current 15-minute candle (593) for a trailing stop to lock in more profit while allowing room for new highs.
+07:20:04
+- [Current Position]: With only 1 share remaining, the position is reduced to under 30% of the original size. Allow flexibility and avoid premature exits.
+
+- [Price Action]: Price is well above VWAP and inflection level, maintaining a strong uptrend. No immediate threat to the long position.
+
+- [Trade Management]: Hold position as long as price remains above VWAP. Consider taking profits near ATH or maintain the position for potential breakout. Adjust stop to below the 15-minute candle low post-30 minutes if you wish to trail.
+07:21:04
+- [Current Setup]: ULTA is trading well above VWAP and the inflection level; the current price is nearing the intraday high, confirming bullish momentum.
+- [Trade Management]: With only 1 share left, let the trade ride to maximize gains. Use the low of the last 5-minute candle (604.08) as a trailing stop to lock in profits while allowing potential for further upside.
+07:22:07
+- [Current Position]: You have a minimal remaining position (1 share) after taking partial exits, which minimizes your risk exposure.
+- [Price Action]: The price is well above VWAP and inflection level, showing strong bullish momentum with a new intraday high.
+- [Trade Management]: With only 1 share left, consider letting it ride unless a 1-minute candle closes below VWAP. You can optionally set a trailing stop just below recent lows to lock in gains.
+07:23:07
+- [Current Position]: ULTA is holding well above VWAP and inflection level, showcasing strong upward momentum. 
+- [Trade Management]: With only 1 share remaining, continue holding to capitalize on the ongoing uptrend. 
+- [Stop Adjustment]: Trail stop to just below recent significant lows around $604. Adjust if a full 1-minute candle closes below VWAP.
