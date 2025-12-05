@@ -1,0 +1,6490 @@
+[01:09:11.605]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[01:09:12.290]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.CiMYTl2efTTQrj22jaawYsFKuny_74tU9SI03m5-e1o@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzYzMzM1MCwiaWF0IjoxNzYzNjI5NzUwLCJqdGkiOiI1YzY0MTM2Yy1iMDE1LTQ0ODgtOGVjYi1iNzRkZGUwMDhjODgifQ.2cik06yMzON-NI9Yoty0tazCodyUP-4dDJ9u0vToCr0"
+}
+[01:20:30.462]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[01:20:31.022]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.3K2w014Wpt4Id2guleb0XbCUNFmNmAc1Eg-QHZ13z6k@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzYzNDAyOSwiaWF0IjoxNzYzNjMwNDI5LCJqdGkiOiI3NWMwNjhiNi03YzBmLTRkOGItYTRjMC0zZTg3ZmUyN2I3OTcifQ.kQSieUFL6Q-2EvHEz8y_iLW3COGHQ_PETfaYQuxTOG8"
+}
+[05:42:19.551]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:13:37.077]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:13:37.787]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.uQmx55htNBOBWIF2j3QJyahTbNDfJ2_ZQdt513Au1ks@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1MTYxNywiaWF0IjoxNzYzNjQ4MDE3LCJqdGkiOiI1MmM4Zjc0Yi1jMmZkLTQwOTctYTI3Mi1hZWU4YTNmNWU3NDMifQ.zxDWURzuvJbwsx6XjgKhjFI8hAwY1nrIGIrEQgUKYsc"
+}
+[06:23:26.767]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:23:27.345]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.o0hfMwEVXW5ONmJTQoXqUfyqXeSgGucB37X6271GewM@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1MjIwNywiaWF0IjoxNzYzNjQ4NjA3LCJqdGkiOiI1MzIzNTY3MC03ODM1LTRhMTUtODEwMy01Mzk1ODVmNGYxMDIifQ.QQJ4AcHQbpMYdHqJnWxMd--noG_FwEpq9STJD7DsV24"
+}
+[06:23:54.770]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:23:55.228]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.zHYzdaZslfiZHXTDsEVNJh1ROBv9PKeCRgeqmoqBmYw@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1MjIzNSwiaWF0IjoxNzYzNjQ4NjM1LCJqdGkiOiIxN2FiNDRiMy05OTE3LTRlMWMtYTRjOC1hOTdhNzYzM2Q5ZTUifQ.uQ_9ms2yYtoZPWNH8eeBUQOEV97BYlM0yoo6-3qimbY"
+}
+[06:30:18.655] rongling
+[06:30:18.656] post order
+[06:30:19.859]
+{
+  "orderId": "1004733390807"
+}
+[06:30:27.052] rongling
+[06:30:27.053] post order
+[06:30:28.149]
+{
+  "orderId": "1004733390852"
+}
+[06:30:29.122] rongling
+[06:30:29.123] post order
+[06:30:29.127] cancel order request
+[06:30:31.120] rongling
+[06:30:31.121] post order
+[06:30:31.125] cancel order request
+[06:30:31.477]
+{
+  "orderId": "1004733390889"
+}
+[06:30:31.723]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:30:31.859]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:30:32.162]
+{
+  "orderId": "1004733390922"
+}
+[06:30:33.191] replace order request
+[06:30:33.192]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.195] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390810
+[06:30:33.197] replace order request
+[06:30:33.199]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.200] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390813
+[06:30:33.204] replace order request
+[06:30:33.205]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.207] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390816
+[06:30:33.211] replace order request
+[06:30:33.211]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.212] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390819
+[06:30:33.231] replace order request
+[06:30:33.232]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.233] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390825
+[06:30:33.437] replace order request
+[06:30:33.438]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.439] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390822
+[06:30:33.565] replace order request
+[06:30:33.566]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.568] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390831
+[06:30:33.669] replace order request
+[06:30:33.670]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.672] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390828
+[06:30:33.769] replace order request
+[06:30:33.769]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.771] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390837
+[06:30:33.922] replace order request
+[06:30:33.923]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:33.924] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390834
+[06:30:34.382] replace order request
+[06:30:34.383]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.384] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390810
+[06:30:34.460] replace order request
+[06:30:34.461]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.462] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390813
+[06:30:34.561] replace order request
+[06:30:34.562]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.563] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390816
+[06:30:34.612]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:30:34.614] 400
+[06:30:34.618] replace order request
+[06:30:34.619]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.620] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390819
+[06:30:34.670]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:30:34.671] 400
+[06:30:34.674] replace order request
+[06:30:34.675]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.676] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390825
+[06:30:34.718] replace order request
+[06:30:34.719]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 102
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:34.723] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733390822
+[06:30:34.923]
+{
+  "message": "Order cannot be replaced while in status REPLACED"
+}
+[06:30:34.925] 400
+[06:30:34.928] rongling
+[06:30:34.929] post order
+[06:30:34.940]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:30:34.945] 400
+[06:30:35.074]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:30:35.075] 400
+[06:30:35.322]
+{
+  "message": "Order cannot be replaced while in status REPLACED"
+}
+[06:30:35.324] 400
+[06:30:35.601]
+{
+  "orderId": "1004733390983"
+}
+[06:30:38.561] rongling
+[06:30:38.562] post order
+[06:30:39.610]
+{
+  "orderId": "1004733391027"
+}
+[06:30:42.549] replace order request
+[06:30:42.549]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.550] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391032
+[06:30:42.553] replace order request
+[06:30:42.554]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.554] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391035
+[06:30:42.557] replace order request
+[06:30:42.558]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.559] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391038
+[06:30:42.563] replace order request
+[06:30:42.564]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.565] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391041
+[06:30:42.717] replace order request
+[06:30:42.718]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.719] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391056
+[06:30:42.868] replace order request
+[06:30:42.869]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:42.870] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391053
+[06:30:43.046] replace order request
+[06:30:43.047]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.57
+}
+[06:30:43.048] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391050
+[06:30:49.197] rongling
+[06:30:49.197] post order
+[06:30:50.456]
+{
+  "orderId": "1004733391098"
+}
+[06:30:59.408] replace order request
+[06:30:59.408]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.88
+}
+[06:30:59.411] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391029
+[06:30:59.416] replace order request
+[06:30:59.416]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.88
+}
+[06:30:59.417] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391044
+[06:30:59.421] replace order request
+[06:30:59.421]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.88
+}
+[06:30:59.422] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391047
+[06:31:07.061] rongling
+[06:31:07.062] post order
+[06:31:08.244]
+{
+  "orderId": "1004733391185"
+}
+[06:31:12.105] replace order request
+[06:31:12.107]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 106
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.87
+}
+[06:31:12.109] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391188
+[06:31:12.921] replace order request
+[06:31:12.921]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.67
+}
+[06:31:12.922] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391191
+[06:31:24.141] replace order request
+[06:31:24.142]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:31:24.144] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391243
+[06:31:30.107] replace order request
+[06:31:30.107]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.109] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391193
+[06:31:30.113] replace order request
+[06:31:30.113]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.114] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391196
+[06:31:30.118] replace order request
+[06:31:30.119]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.120] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391199
+[06:31:30.123] replace order request
+[06:31:30.124]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.125] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391202
+[06:31:30.128] replace order request
+[06:31:30.129]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.130] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391214
+[06:31:30.134] replace order request
+[06:31:30.135]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.135] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391211
+[06:31:30.627] replace order request
+[06:31:30.629]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.630] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391208
+[06:31:30.773] replace order request
+[06:31:30.774]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.52
+}
+[06:31:30.775] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391205
+[06:31:47.753] rongling
+[06:31:47.754] post order
+[06:31:48.127]
+{
+  "orderId": "1004733391351"
+}
+[06:31:49.553] rongling
+[06:31:49.554] post order
+[06:31:50.669]
+{
+  "orderId": "1004733391355"
+}
+[06:31:57.268] replace order request
+[06:31:57.270]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.61
+}
+[06:31:57.271] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391358
+[06:31:58.157] replace order request
+[06:31:58.158]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.19
+}
+[06:31:58.159] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391361
+[06:32:05.487] replace order request
+[06:32:05.488]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.488] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391366
+[06:32:05.491] replace order request
+[06:32:05.492]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.493] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391372
+[06:32:05.496] replace order request
+[06:32:05.496]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.497] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391357
+[06:32:05.499] replace order request
+[06:32:05.500]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.501] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391360
+[06:32:05.504] replace order request
+[06:32:05.504]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.506] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391363
+[06:32:05.507] replace order request
+[06:32:05.508]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.512] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391369
+[06:32:05.944] replace order request
+[06:32:05.946]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:05.947] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391375
+[06:32:06.066] replace order request
+[06:32:06.067]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:06.068] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391384
+[06:32:06.215] replace order request
+[06:32:06.216]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:06.217] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391381
+[06:32:06.414] replace order request
+[06:32:06.415]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.07
+}
+[06:32:06.416] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391378
+[06:32:23.239] rongling
+[06:32:23.240] post order
+[06:32:25.013]
+{
+  "orderId": "1004733391497"
+}
+[06:32:32.571] replace order request
+[06:32:32.572]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.573] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391499
+[06:32:32.577] replace order request
+[06:32:32.577]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.578] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391502
+[06:32:32.582] replace order request
+[06:32:32.583]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.584] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391505
+[06:32:32.588] replace order request
+[06:32:32.588]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.588] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391508
+[06:32:32.591] replace order request
+[06:32:32.591]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 93
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.592] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391514
+[06:32:32.597] replace order request
+[06:32:32.598]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:32.599] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391511
+[06:32:33.019] replace order request
+[06:32:33.020]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 93
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:33.020] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391520
+[06:32:33.160] replace order request
+[06:32:33.161]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 93
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:33.162] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391517
+[06:32:33.293] replace order request
+[06:32:33.294]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 93
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:33.295] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391526
+[06:32:33.447] replace order request
+[06:32:33.447]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 93
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:33.447] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391523
+[06:32:33.675] replace order request
+[06:32:33.676]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 84
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 231.17
+}
+[06:32:33.679] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391378
+[06:32:35.031] replace order request
+[06:32:35.032]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.71
+}
+[06:32:35.033] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391500
+[06:32:36.038] replace order request
+[06:32:36.040]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 94
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.23
+}
+[06:32:36.042] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391503
+[06:32:48.202] rongling
+[06:32:48.203] post order
+[06:32:49.559]
+{
+  "orderId": "1004733391604"
+}
+[06:32:52.963] rongling
+[06:32:52.963] post order
+[06:32:53.528]
+{
+  "orderId": "1004733391646"
+}
+[06:33:12.389] replace order request
+[06:33:12.390]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.391] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391606
+[06:33:12.394] replace order request
+[06:33:12.395]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.396] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391609
+[06:33:12.400] replace order request
+[06:33:12.401]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.402] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391612
+[06:33:12.405] replace order request
+[06:33:12.406]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.407] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391615
+[06:33:12.409] replace order request
+[06:33:12.410]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.411] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391621
+[06:33:12.416] replace order request
+[06:33:12.416]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.417] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391618
+[06:33:12.839] replace order request
+[06:33:12.839]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.840] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391630
+[06:33:12.968] replace order request
+[06:33:12.969]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:12.970] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391627
+[06:33:13.106] replace order request
+[06:33:13.107]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:13.108] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391624
+[06:33:13.241] replace order request
+[06:33:13.242]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 85
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 232.03
+}
+[06:33:13.243] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391633
+[06:33:13.573] replace order request
+[06:33:13.580]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 231.48
+}
+[06:33:13.582] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391607
+[06:33:14.032] replace order request
+[06:33:14.033]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 231.11
+}
+[06:33:14.034] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391610
+[06:33:16.224] replace order request
+[06:33:16.225]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 231.02
+}
+[06:33:16.226] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391613
+[06:33:39.520] replace order request
+[06:33:39.523]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 86
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.17
+}
+[06:33:39.524] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004733391616
+[06:33:52.622] rongling
+[06:33:52.624] post order
+[06:33:53.089]
+{
+  "orderId": "1004733391806"
+}
+[06:33:53.384] rongling
+[06:33:53.385] post order
+[06:33:54.178]
+{
+  "orderId": "1004733391810"
+}
+[06:33:56.353] rongling
+[06:33:56.354] post order
+[06:33:56.743]
+{
+  "orderId": "1004733391819"
+}
+[06:36:20.773] rongling
+[06:36:20.774] post order
+[06:36:20.780] rongling
+[06:36:20.780] post order
+[06:36:20.782] rongling
+[06:36:20.783] post order
+[06:36:20.785] rongling
+[06:36:20.786] post order
+[06:36:20.790] rongling
+[06:36:20.791] post order
+[06:36:21.249]
+{
+  "orderId": "1004734008213"
+}
+[06:36:21.393]
+{
+  "orderId": "1004734008216"
+}
+[06:36:21.595]
+{
+  "orderId": "1004734008219"
+}
+[06:36:21.829]
+{
+  "orderId": "1004734008222"
+}
+[06:36:22.013]
+{
+  "orderId": "1004734008225"
+}
+[06:40:15.115] replace order request
+[06:40:15.116]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 233.14
+}
+[06:40:15.119] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008217
+[06:40:15.124] replace order request
+[06:40:15.125]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 233.14
+}
+[06:40:15.126] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008223
+[06:40:15.128] replace order request
+[06:40:15.129]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 233.14
+}
+[06:40:15.129] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008220
+[06:40:15.131] replace order request
+[06:40:15.132]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 233.14
+}
+[06:40:15.133] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008214
+[06:40:34.949] rongling
+[06:40:34.950] post order
+[06:40:35.124] rongling
+[06:40:35.125] post order
+[06:40:35.435]
+{
+  "orderId": "1004734008713"
+}
+[06:40:35.603]
+{
+  "orderId": "1004734008717"
+}
+[06:40:55.200] replace order request
+[06:40:55.202]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 230.09
+}
+[06:40:55.202] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008720
+[06:42:01.627] rongling
+[06:42:01.628] post order
+[06:42:02.014]
+{
+  "orderId": "1004734008879"
+}
+[06:43:06.012]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:43:06.469]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.3vHW_6Xhc2t4jLMx3J8UH512GPrXnjRQfajEgjmGrf0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1MzM4NiwiaWF0IjoxNzYzNjQ5Nzg2LCJqdGkiOiIxNWQ4ODBlMC0yNTQxLTQyNmYtODg5Yi1lYzY4MWYxMzM0NTUifQ.gkQKMH4ILoQTbadAlAE8QJtmjCUJpAoS1pXC6YEGr_k"
+}
+[06:45:59.975] replace order request
+[06:45:59.976]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.04
+}
+[06:45:59.979] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008716
+[06:47:01.815] replace order request
+[06:47:01.819]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:47:01.820] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009346
+[06:47:11.219] replace order request
+[06:47:11.220]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:47:11.221] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008218
+[06:47:11.225] replace order request
+[06:47:11.225]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:47:11.226] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008224
+[06:47:11.229] replace order request
+[06:47:11.230]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:47:11.230] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008221
+[06:47:11.233] replace order request
+[06:47:11.233]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:47:11.234] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734008215
+[06:48:41.901] rongling
+[06:48:41.902] post order
+[06:48:42.126] rongling
+[06:48:42.127] post order
+[06:48:42.437]
+{
+  "orderId": "1004734009654"
+}
+[06:48:42.565]
+{
+  "orderId": "1004734009659"
+}
+[06:49:14.847] rongling
+[06:49:14.850] post order
+[06:49:15.024] rongling
+[06:49:15.025] post order
+[06:49:15.361]
+{
+  "orderId": "1004734009705"
+}
+[06:49:15.542]
+{
+  "orderId": "1004734009710"
+}
+[06:49:27.145] rongling
+[06:49:27.146] post order
+[06:49:27.322] rongling
+[06:49:27.323] post order
+[06:49:27.602]
+{
+  "orderId": "1004734009738"
+}
+[06:49:27.822]
+{
+  "orderId": "1004734009742"
+}
+[06:49:39.322] replace order request
+[06:49:39.322]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.31
+}
+[06:49:39.325] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009745
+[06:50:40.450] replace order request
+[06:50:40.451]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.58
+}
+[06:50:40.452] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009741
+[06:52:04.327] replace order request
+[06:52:04.328]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:04.330] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009879
+[06:52:04.333] replace order request
+[06:52:04.335]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:04.338] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009713
+[06:52:04.341] replace order request
+[06:52:04.341]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:04.342] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009708
+[06:52:04.345] replace order request
+[06:52:04.346]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:04.347] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009662
+[06:52:04.348] replace order request
+[06:52:04.349]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:04.349] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734009657
+[06:52:16.302] rongling
+[06:52:16.303] post order
+[06:52:16.544] rongling
+[06:52:16.545] post order
+[06:52:16.611] rongling
+[06:52:16.611] post order
+[06:52:16.756]
+{
+  "orderId": "1004734872049"
+}
+[06:52:16.762] rongling
+[06:52:16.763] post order
+[06:52:16.916] rongling
+[06:52:16.916] post order
+[06:52:16.995]
+{
+  "orderId": "1004734872053"
+}
+[06:52:17.167]
+{
+  "orderId": "1004734872057"
+}
+[06:52:17.395]
+{
+  "orderId": "1004734872061"
+}
+[06:52:17.870]
+{
+  "orderId": "1004734872065"
+}
+[06:52:27.965] replace order request
+[06:52:27.967]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:52:27.967] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872068
+[06:52:38.971] replace order request
+[06:52:38.973]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:52:38.975] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872063
+[06:52:38.979] replace order request
+[06:52:38.979]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:52:38.981] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872051
+[06:52:38.984] replace order request
+[06:52:38.984]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:52:38.985] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872059
+[06:52:38.987] replace order request
+[06:52:38.987]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:52:38.988] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872055
+[06:53:43.849]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[06:53:44.371]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.q8s0oCi2QhNQDwLvyGtTvWKxWEqzznIW2PuiV0S77Ew@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1NDAyNCwiaWF0IjoxNzYzNjUwNDI0LCJqdGkiOiI1MmRlMTdkNy1jMDlhLTQ5OWUtOTQ0NS0wMmEyYmJhNDVlYjgifQ.MLRC52-uXlO9ssc66AJh6Z1PG46jaj-5HrBurcRq70I"
+}
+[06:54:20.049] replace order request
+[06:54:20.050]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.28
+}
+[06:54:20.052] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872112
+[06:54:20.056] replace order request
+[06:54:20.057]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.28
+}
+[06:54:20.057] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872110
+[06:54:20.059] replace order request
+[06:54:20.060]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.28
+}
+[06:54:20.063] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872108
+[06:54:20.066] replace order request
+[06:54:20.066]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.28
+}
+[06:54:20.067] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872114
+[06:54:54.583] rongling
+[06:54:54.585] post order
+[06:54:54.776] rongling
+[06:54:54.778] post order
+[06:54:54.966] rongling
+[06:54:54.966] post order
+[06:54:55.093]
+{
+  "orderId": "1004734872346"
+}
+[06:54:55.152] rongling
+[06:54:55.153] post order
+[06:54:55.290]
+{
+  "orderId": "1004734872351"
+}
+[06:54:55.333] rongling
+[06:54:55.333] post order
+[06:54:55.492]
+{
+  "orderId": "1004734872355"
+}
+[06:54:56.051]
+{
+  "orderId": "1004734872360"
+}
+[06:54:56.136]
+{
+  "orderId": "1004734872364"
+}
+[06:55:03.371] replace order request
+[06:55:03.372]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:55:03.375] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872353
+[06:55:03.376] replace order request
+[06:55:03.378]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:55:03.380] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872357
+[06:55:03.383] replace order request
+[06:55:03.384]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:55:03.385] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872366
+[06:55:03.387] replace order request
+[06:55:03.388]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:55:03.389] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872362
+[06:55:03.392] replace order request
+[06:55:03.392]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.35
+}
+[06:55:03.393] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872348
+[06:56:23.396] rongling
+[06:56:23.397] post order
+[06:56:24.496]
+{
+  "orderId": "1004734872526"
+}
+[06:57:52.639] rongling
+[06:57:52.640] post order
+[06:57:52.831] rongling
+[06:57:52.832] post order
+[06:57:53.221]
+{
+  "orderId": "1004734872754"
+}
+[06:57:53.329]
+{
+  "orderId": "1004734872758"
+}
+[06:57:56.743] replace order request
+[06:57:56.743]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.08
+}
+[06:57:56.744] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872760
+[06:57:56.949] replace order request
+[06:57:56.951]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.08
+}
+[06:57:56.954] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872756
+[06:58:02.301] replace order request
+[06:58:02.302]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:58:02.303] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872761
+[06:58:02.494] replace order request
+[06:58:02.495]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:58:02.496] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872757
+[06:58:09.838] rongling
+[06:58:09.838] post order
+[06:58:10.034] rongling
+[06:58:10.037] post order
+[06:58:10.179] rongling
+[06:58:10.180] post order
+[06:58:10.312]
+{
+  "orderId": "1004734872818"
+}
+[06:58:10.332] rongling
+[06:58:10.334] post order
+[06:58:10.460] rongling
+[06:58:10.461] post order
+[06:58:10.626]
+{
+  "orderId": "1004734872822"
+}
+[06:58:10.775]
+{
+  "orderId": "1004734872826"
+}
+[06:58:11.319]
+{
+  "orderId": "1004734872830"
+}
+[06:58:11.619]
+{
+  "orderId": "1004734872836"
+}
+[06:58:16.883] replace order request
+[06:58:16.884]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.35
+}
+[06:58:16.886] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872838
+[06:58:17.082] replace order request
+[06:58:17.083]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.35
+}
+[06:58:17.084] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872832
+[06:58:17.332] replace order request
+[06:58:17.333]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.35
+}
+[06:58:17.334] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872828
+[06:58:17.603] replace order request
+[06:58:17.604]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.35
+}
+[06:58:17.605] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872824
+[06:58:17.912] replace order request
+[06:58:17.913]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 304.35
+}
+[06:58:17.914] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872820
+[06:58:32.364] replace order request
+[06:58:32.365]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.44
+}
+[06:58:32.367] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872531
+[06:58:32.372] replace order request
+[06:58:32.372]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.44
+}
+[06:58:32.373] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872534
+[06:58:32.376] replace order request
+[06:58:32.376]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.44
+}
+[06:58:32.377] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872528
+[06:58:32.379] replace order request
+[06:58:32.380]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.44
+}
+[06:58:32.381] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872537
+[06:58:32.383] replace order request
+[06:58:32.383]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.44
+}
+[06:58:32.384] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872543
+[06:59:11.873] replace order request
+[06:59:11.874]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:11.875] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872909
+[06:59:11.879] replace order request
+[06:59:11.880]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:11.881] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872919
+[06:59:11.884] replace order request
+[06:59:11.885]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:11.885] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872913
+[06:59:11.888] replace order request
+[06:59:11.888]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:11.889] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872917
+[06:59:11.892] replace order request
+[06:59:11.892]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:11.893] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872915
+[06:59:12.340] replace order request
+[06:59:12.341]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:12.342] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872540
+[06:59:12.441] replace order request
+[06:59:12.442]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:12.443] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872549
+[06:59:12.570] replace order request
+[06:59:12.571]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:12.572] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872546
+[06:59:12.726] replace order request
+[06:59:12.728]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:12.730] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872552
+[06:59:12.737] replace order request
+[06:59:12.739]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.46
+}
+[06:59:12.740] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872555
+[06:59:22.394] rongling
+[06:59:22.394] post order
+[06:59:22.776]
+{
+  "orderId": "1004734873062"
+}
+[06:59:28.464] replace order request
+[06:59:28.470]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.1
+}
+[06:59:28.472] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872552
+[06:59:28.478] replace order request
+[06:59:28.478]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.1
+}
+[06:59:28.479] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872546
+[06:59:28.482] replace order request
+[06:59:28.482]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 42
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 303.1
+}
+[06:59:28.483] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734872555
+[06:59:40.472] rongling
+[06:59:40.473] post order
+[06:59:40.899]
+{
+  "orderId": "1004734873105"
+}
+[06:59:55.710] rongling
+[06:59:55.712] post order
+[06:59:55.883] rongling
+[06:59:55.884] post order
+[06:59:56.043] rongling
+[06:59:56.044] post order
+[06:59:56.208] rongling
+[06:59:56.209] post order
+[06:59:56.244]
+{
+  "orderId": "1004734873131"
+}
+[06:59:56.364] rongling
+[06:59:56.365] post order
+[06:59:56.400]
+{
+  "orderId": "1004734873135"
+}
+[06:59:56.524] rongling
+[06:59:56.524] post order
+[06:59:56.576]
+{
+  "orderId": "1004734873139"
+}
+[06:59:56.712] rongling
+[06:59:56.713] post order
+[06:59:56.870]
+{
+  "orderId": "1004734873143"
+}
+[06:59:56.883] rongling
+[06:59:56.884] post order
+[06:59:57.330]
+{
+  "orderId": "1004734873147"
+}
+[06:59:57.335] rongling
+[06:59:57.337] post order
+[06:59:57.501]
+{
+  "orderId": "1004734873151"
+}
+[06:59:57.504] rongling
+[06:59:57.505] post order
+[06:59:57.912]
+{
+  "orderId": "1004734873155"
+}
+[06:59:58.221]
+{
+  "orderId": "1004734873159"
+}
+[06:59:58.601]
+{
+  "orderId": "1004734873164"
+}
+[06:59:58.796]
+{
+  "orderId": "1004734873168"
+}
+[07:00:51.638] replace order request
+[07:00:51.641]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:00:51.643] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873145
+[07:00:51.646] replace order request
+[07:00:51.648]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:00:51.649] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873141
+[07:00:51.652] replace order request
+[07:00:51.652]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:00:51.653] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873137
+[07:00:51.655] replace order request
+[07:00:51.656]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:00:51.657] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873133
+[07:00:51.659] replace order request
+[07:00:51.659]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:00:51.660] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873170
+[07:01:36.413] replace order request
+[07:01:36.414]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.415] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873257
+[07:01:36.420] replace order request
+[07:01:36.421]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.421] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873252
+[07:01:36.424] replace order request
+[07:01:36.424]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.425] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873255
+[07:01:36.429] replace order request
+[07:01:36.430]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.431] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873259
+[07:01:36.435] replace order request
+[07:01:36.435]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.436] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873261
+[07:01:36.563] replace order request
+[07:01:36.565]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.566] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873166
+[07:01:36.887] replace order request
+[07:01:36.888]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:36.890] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873161
+[07:01:37.031] replace order request
+[07:01:37.032]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:37.033] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873149
+[07:01:37.186] replace order request
+[07:01:37.187]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:37.188] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873157
+[07:01:37.272] replace order request
+[07:01:37.273]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 230.13
+}
+[07:01:37.275] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873153
+[07:01:50.441] rongling
+[07:01:50.442] post order
+[07:01:51.562]
+{
+  "orderId": "1004734873374"
+}
+[07:01:56.590] replace order request
+[07:01:56.590]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.591] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873379
+[07:01:56.594] replace order request
+[07:01:56.595]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.596] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873376
+[07:01:56.598] replace order request
+[07:01:56.599]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.599] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873382
+[07:01:56.603] replace order request
+[07:01:56.604]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.605] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873385
+[07:01:56.609] replace order request
+[07:01:56.610]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.611] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873391
+[07:01:56.645] replace order request
+[07:01:56.646]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:56.648] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873388
+[07:01:57.163] replace order request
+[07:01:57.164]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:57.165] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873397
+[07:01:57.302] replace order request
+[07:01:57.304]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:57.306] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873400
+[07:01:57.409] replace order request
+[07:01:57.410]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:57.411] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873394
+[07:01:57.571] replace order request
+[07:01:57.572]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 302.86
+}
+[07:01:57.573] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873403
+[07:02:08.929] replace order request
+[07:02:08.929]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:08.930] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873380
+[07:02:19.814] replace order request
+[07:02:19.815]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:19.818] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873146
+[07:02:21.412] replace order request
+[07:02:21.413]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.28
+}
+[07:02:21.414] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873142
+[07:02:22.553] replace order request
+[07:02:22.554]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.05
+}
+[07:02:22.555] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873138
+[07:02:33.123] replace order request
+[07:02:33.124]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.124] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873377
+[07:02:33.126] replace order request
+[07:02:33.126]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 44
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.127] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873383
+[07:02:33.129] replace order request
+[07:02:33.129]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.130] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873386
+[07:02:33.130] replace order request
+[07:02:33.131]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.131] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873392
+[07:02:33.132] replace order request
+[07:02:33.132]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.133] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873389
+[07:02:33.580] replace order request
+[07:02:33.581]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.582] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873398
+[07:02:33.742] replace order request
+[07:02:33.743]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.743] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873401
+[07:02:33.873] replace order request
+[07:02:33.874]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:33.876] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873395
+[07:02:34.022] replace order request
+[07:02:34.023]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "GOOGL"
+      },
+      "instruction": "SELL",
+      "quantity": 43
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:34.024] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873404
+[07:03:07.365] replace order request
+[07:03:07.365]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.6
+}
+[07:03:07.366] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873342
+[07:03:07.610] replace order request
+[07:03:07.611]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.6
+}
+[07:03:07.611] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873350
+[07:03:11.198] replace order request
+[07:03:11.199]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.29
+}
+[07:03:11.200] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873489
+[07:03:14.826] replace order request
+[07:03:14.830]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 105
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229.09
+}
+[07:03:14.831] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873134
+[07:03:58.610] rongling
+[07:03:58.611] post order
+[07:03:59.678]
+{
+  "orderId": "1004734873651"
+}
+[07:05:35.490] cancel order request
+[07:05:35.696] cancel order request
+[07:05:35.903] cancel order request
+[07:05:36.132]
+{
+  "type": "Buffer",
+  "data": []
+}
+[07:05:36.152]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[07:05:36.222]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[07:05:38.612] rongling
+[07:05:38.613] post order
+[07:05:38.769] rongling
+[07:05:38.770] post order
+[07:05:38.919] rongling
+[07:05:38.921] post order
+[07:05:39.073] rongling
+[07:05:39.074] post order
+[07:05:39.102]
+{
+  "orderId": "1004734873812"
+}
+[07:05:39.232] rongling
+[07:05:39.232] post order
+[07:05:39.300]
+{
+  "orderId": "1004734873817"
+}
+[07:05:39.392] rongling
+[07:05:39.394] post order
+[07:05:39.613]
+{
+  "orderId": "1004734873822"
+}
+[07:05:39.616] rongling
+[07:05:39.617] post order
+[07:05:39.777]
+{
+  "orderId": "1004734873826"
+}
+[07:05:39.780] rongling
+[07:05:39.781] post order
+[07:05:39.955] rongling
+[07:05:39.956] post order
+[07:05:40.423]
+{
+  "orderId": "1004734873830"
+}
+[07:05:40.425] rongling
+[07:05:40.426] post order
+[07:05:40.728]
+{
+  "orderId": "1004734873834"
+}
+[07:05:40.906]
+{
+  "orderId": "1004734873838"
+}
+[07:05:41.348]
+{
+  "orderId": "1004734873842"
+}
+[07:05:41.514]
+{
+  "orderId": "1004734873846"
+}
+[07:05:41.653]
+{
+  "orderId": "1004734873853"
+}
+[07:05:43.803] cancel order request
+[07:05:43.807] cancel order request
+[07:05:43.813] cancel order request
+[07:05:43.816] cancel order request
+[07:05:44.210] cancel order request
+[07:05:44.219]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.222]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.224] cancel order request
+[07:05:44.226] cancel order request
+[07:05:44.234]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.238] cancel order request
+[07:05:44.390]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.394] cancel order request
+[07:05:44.509]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.514] cancel order request
+[07:05:44.560]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.564] cancel order request
+[07:05:44.730]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.732] cancel order request
+[07:05:44.797]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.799] cancel order request
+[07:05:44.819]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.821] cancel order request
+[07:05:44.898]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.900]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:44.901] cancel order request
+[07:05:44.906] cancel order request
+[07:05:45.012]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.015] cancel order request
+[07:05:45.113]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.115] cancel order request
+[07:05:45.209]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.212] cancel order request
+[07:05:45.374] cancel order request
+[07:05:45.376]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.379] cancel order request
+[07:05:45.381]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.383] cancel order request
+[07:05:45.397]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.399] cancel order request
+[07:05:45.481]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.484] cancel order request
+[07:05:45.555]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.559] cancel order request
+[07:05:45.673]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.676] cancel order request
+[07:05:45.769]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.774]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.775]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.782] cancel order request
+[07:05:45.784] cancel order request
+[07:05:45.786] cancel order request
+[07:05:45.896]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:45.897] cancel order request
+[07:05:45.984]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.000]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.043]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.048] replace order request
+[07:05:46.049]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 105
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:05:46.050] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873828
+[07:05:46.111]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.204]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.211]
+{
+  "message": "Order in state FILLED cannot be canceled"
+}
+[07:05:46.334]
+{
+  "message": "Order in status FILLED cannot be replaced"
+}
+[07:05:46.335] 400
+[07:05:47.783] rongling
+[07:05:47.783] post order
+[07:05:48.388]
+{
+  "orderId": "1004734873871"
+}
+[07:05:49.429] rongling
+[07:05:49.430] post order
+[07:05:49.706]
+{
+  "orderId": "1004734873905"
+}
+[07:05:51.996] rongling
+[07:05:51.998] post order
+[07:05:52.376]
+{
+  "orderId": "1004734873909"
+}
+[07:05:52.858] rongling
+[07:05:52.859] post order
+[07:05:53.238]
+{
+  "orderId": "1004734873912"
+}
+[07:06:25.072] rongling
+[07:06:25.073] post order
+[07:06:26.150]
+{
+  "orderId": "1004734873969"
+}
+[07:06:31.016] rongling
+[07:06:31.017] post order
+[07:06:31.229] rongling
+[07:06:31.230] post order
+[07:06:31.376] rongling
+[07:06:31.377] post order
+[07:06:31.519] rongling
+[07:06:31.520] post order
+[07:06:31.628]
+{
+  "orderId": "1004735528009"
+}
+[07:06:31.685] rongling
+[07:06:31.686] post order
+[07:06:31.765]
+{
+  "orderId": "1004735528014"
+}
+[07:06:31.846] rongling
+[07:06:31.847] post order
+[07:06:32.462]
+{
+  "orderId": "1004735528023"
+}
+[07:06:32.466] rongling
+[07:06:32.467] post order
+[07:06:32.469]
+{
+  "orderId": "1004735528019"
+}
+[07:06:32.472] rongling
+[07:06:32.473] post order
+[07:06:32.771]
+{
+  "orderId": "1004735528027"
+}
+[07:06:32.774] rongling
+[07:06:32.776] post order
+[07:06:32.896] rongling
+[07:06:32.897] post order
+[07:06:33.143]
+{
+  "orderId": "1004735528031"
+}
+[07:06:33.535]
+{
+  "orderId": "1004735528038"
+}
+[07:06:33.798]
+{
+  "orderId": "1004735528044"
+}
+[07:06:34.125]
+{
+  "orderId": "1004735528050"
+}
+[07:06:34.441]
+{
+  "orderId": "1004735528057"
+}
+[07:06:54.035] replace order request
+[07:06:54.036]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.63
+}
+[07:06:54.037] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528060
+[07:06:54.506] replace order request
+[07:06:54.507]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.55
+}
+[07:06:54.507] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528053
+[07:06:54.910] replace order request
+[07:06:54.911]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.4
+}
+[07:06:54.912] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528047
+[07:07:18.589] replace order request
+[07:07:18.589]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.66
+}
+[07:07:18.590] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528099
+[07:07:32.404] replace order request
+[07:07:32.405]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.45
+}
+[07:07:32.406] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528041
+[07:07:35.070] replace order request
+[07:07:35.072]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.48
+}
+[07:07:35.072] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528034
+[07:07:42.875] replace order request
+[07:07:42.875]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.31
+}
+[07:07:42.877] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528030
+[07:07:43.279] replace order request
+[07:07:43.279]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.31
+}
+[07:07:43.281] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528026
+[07:08:33.352] replace order request
+[07:08:33.353]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:08:33.354] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528012
+[07:08:33.545] replace order request
+[07:08:33.546]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:08:33.547] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873975
+[07:08:33.835] replace order request
+[07:08:33.836]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:08:33.837] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873972
+[07:08:34.065] replace order request
+[07:08:34.066]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:08:34.067] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873978
+[07:08:52.371] replace order request
+[07:08:52.372]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:08:52.373] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528017
+[07:08:52.768] replace order request
+[07:08:52.768]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:08:52.769] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873984
+[07:09:00.527] replace order request
+[07:09:00.529]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.530] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528308
+[07:09:00.533] replace order request
+[07:09:00.534]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.535] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528310
+[07:09:00.538] replace order request
+[07:09:00.538]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.539] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528312
+[07:09:00.542] replace order request
+[07:09:00.542]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.543] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528314
+[07:09:00.545] replace order request
+[07:09:00.546]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.547] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528022
+[07:09:00.549] replace order request
+[07:09:00.550]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.83
+}
+[07:09:00.550] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873981
+[07:09:04.359] replace order request
+[07:09:04.360]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.98
+}
+[07:09:04.362] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528351
+[07:09:04.660] replace order request
+[07:09:04.661]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.98
+}
+[07:09:04.662] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528355
+[07:09:13.139] replace order request
+[07:09:13.140]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:09:13.145] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528360
+[07:09:54.745] replace order request
+[07:09:54.746]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:09:54.747] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528363
+[07:10:08.619] replace order request
+[07:10:08.620]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:10:08.621] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873984
+[07:12:55.849]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[07:12:56.304]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.CIderrOfNzc2dAiY0D2JrJ37GZ-igUbzZiX9TuGum28@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1NTE3NiwiaWF0IjoxNzYzNjUxNTc2LCJqdGkiOiI5MGZiMGMzNC0xNWRiLTQwZDctYjU1Yi0yYzAxN2M3YjcwODIifQ.1FDBoAT29onNkGeyZ-G2rcZT_Go0Qkuu3YrQY94P_7U"
+}
+[07:13:11.510] replace order request
+[07:13:11.512]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.513] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528353
+[07:13:11.516] replace order request
+[07:13:11.517]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.518] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528357
+[07:13:11.521] replace order request
+[07:13:11.522]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 38
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.523] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528346
+[07:13:11.524] replace order request
+[07:13:11.525]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.526] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528348
+[07:13:11.529] replace order request
+[07:13:11.529]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.530] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873987
+[07:13:11.607] replace order request
+[07:13:11.612]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.613] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873990
+[07:13:11.979] replace order request
+[07:13:11.980]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:11.982] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873993
+[07:13:12.128] replace order request
+[07:13:12.129]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:12.130] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873999
+[07:13:12.223] replace order request
+[07:13:12.225]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 229
+}
+[07:13:12.226] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873996
+[07:13:13.913] replace order request
+[07:13:13.914]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.06
+}
+[07:13:13.915] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873992
+[07:13:13.918] replace order request
+[07:13:13.918]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.06
+}
+[07:13:13.919] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873998
+[07:13:13.921] replace order request
+[07:13:13.922]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.06
+}
+[07:13:13.923] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004734873995
+[07:13:14.428]
+{
+  "message": "Order cannot be replaced while in status PENDING_CANCEL"
+}
+[07:13:14.428] 400
+[07:13:14.570]
+{
+  "message": "Order cannot be replaced while in status PENDING_CANCEL"
+}
+[07:13:14.573] 400
+[07:13:39.118] rongling
+[07:13:39.118] post order
+[07:13:39.305] rongling
+[07:13:39.306] post order
+[07:13:39.466] rongling
+[07:13:39.467] post order
+[07:13:39.549]
+{
+  "orderId": "1004735528699"
+}
+[07:13:39.639] rongling
+[07:13:39.642] post order
+[07:13:39.757]
+{
+  "orderId": "1004735528703"
+}
+[07:13:39.775] rongling
+[07:13:39.775] post order
+[07:13:39.928] rongling
+[07:13:39.930] post order
+[07:13:39.944]
+{
+  "orderId": "1004735528707"
+}
+[07:13:40.489]
+{
+  "orderId": "1004735528711"
+}
+[07:13:40.788]
+{
+  "orderId": "1004735528715"
+}
+[07:13:41.194]
+{
+  "orderId": "1004735528719"
+}
+[07:13:51.737] replace order request
+[07:13:51.738]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.740] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528702
+[07:13:51.744] replace order request
+[07:13:51.745]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.746] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528710
+[07:13:51.748] replace order request
+[07:13:51.749]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.750] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528706
+[07:13:51.752] replace order request
+[07:13:51.753]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.753] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528718
+[07:13:51.756] replace order request
+[07:13:51.756]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.757] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528714
+[07:13:51.961] replace order request
+[07:13:51.962]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:51.963] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528722
+[07:13:55.169] replace order request
+[07:13:55.170]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.171] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528706
+[07:13:55.174] replace order request
+[07:13:55.174]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.175] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528714
+[07:13:55.177] replace order request
+[07:13:55.178]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.178] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528721
+[07:13:55.181] replace order request
+[07:13:55.181]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.182] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528717
+[07:13:55.183] replace order request
+[07:13:55.184]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.185] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528709
+[07:13:55.211] replace order request
+[07:13:55.212]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "SELL",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:13:55.213] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528701
+[07:13:55.390]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[07:13:55.391] 400
+[07:13:55.424]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:13:55.425] 400
+[07:13:55.484]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:13:55.485] 400
+[07:13:55.512]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[07:13:55.513] 400
+[07:13:55.528]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:13:55.529] 400
+[07:13:55.712]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:13:55.713] 400
+[07:13:56.924] rongling
+[07:13:56.925] post order
+[07:13:58.356]
+{
+  "orderId": "1004735528770"
+}
+[07:14:04.732] replace order request
+[07:14:04.732]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.733] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528773
+[07:14:04.737] replace order request
+[07:14:04.738]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.739] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528776
+[07:14:04.742] replace order request
+[07:14:04.742]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.743] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528785
+[07:14:04.749] replace order request
+[07:14:04.751]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.752] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528782
+[07:14:04.753] replace order request
+[07:14:04.754]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 37
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.755] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528779
+[07:14:04.811] replace order request
+[07:14:04.812]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:04.815] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528788
+[07:14:05.478] replace order request
+[07:14:05.479]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:05.480] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528800
+[07:14:05.505] replace order request
+[07:14:05.506]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:05.507] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528797
+[07:14:05.629] replace order request
+[07:14:05.629]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:05.630] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528794
+[07:14:05.657] replace order request
+[07:14:05.658]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:05.659] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528791
+[07:14:13.595] rongling
+[07:14:13.596] post order
+[07:14:14.678]
+{
+  "orderId": "1004735528852"
+}
+[07:14:20.775] replace order request
+[07:14:20.777]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:20.778] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528857
+[07:14:20.781] replace order request
+[07:14:20.782]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:20.783] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528854
+[07:14:20.784] replace order request
+[07:14:20.785]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:20.786] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528860
+[07:14:20.787] replace order request
+[07:14:20.788]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:20.788] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528863
+[07:14:20.790] replace order request
+[07:14:20.790]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:20.791] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528869
+[07:14:21.216] replace order request
+[07:14:21.217]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:21.217] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528866
+[07:14:21.359] replace order request
+[07:14:21.360]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:21.361] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528878
+[07:14:21.519] replace order request
+[07:14:21.520]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:21.521] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528875
+[07:14:21.637] replace order request
+[07:14:21.640]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:21.642] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528872
+[07:14:21.817] replace order request
+[07:14:21.818]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.85
+}
+[07:14:21.819] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528881
+[07:14:22.227] replace order request
+[07:14:22.228]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 228.18
+}
+[07:14:22.230] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528858
+[07:14:27.635] replace order request
+[07:14:27.636]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:27.637] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528855
+[07:14:32.134] replace order request
+[07:14:32.135]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.81
+}
+[07:14:32.137] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528861
+[07:14:32.140] replace order request
+[07:14:32.140]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.81
+}
+[07:14:32.142] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528864
+[07:14:32.145] replace order request
+[07:14:32.146]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.81
+}
+[07:14:32.147] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528870
+[07:14:32.152] replace order request
+[07:14:32.153]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.81
+}
+[07:14:32.155] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528867
+[07:14:44.651] replace order request
+[07:14:44.652]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:14:44.653] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528934
+[07:14:44.657] replace order request
+[07:14:44.658]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 36
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:14:44.659] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528927
+[07:14:44.661] replace order request
+[07:14:44.662]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:14:44.662] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528932
+[07:14:44.664] replace order request
+[07:14:44.664]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.88
+}
+[07:14:44.665] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528930
+[07:15:26.828] replace order request
+[07:15:26.828]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:15:26.829] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528879
+[07:16:05.898] replace order request
+[07:16:05.900]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.22
+}
+[07:16:05.901] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528904
+[07:16:05.905] replace order request
+[07:16:05.906]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.22
+}
+[07:16:05.907] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528908
+[07:16:05.909] replace order request
+[07:16:05.909]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 229.22
+}
+[07:16:05.910] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528911
+[07:16:35.555] replace order request
+[07:16:35.556]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 227.64
+}
+[07:16:35.559] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528876
+[07:16:54.329] replace order request
+[07:16:54.329]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:16:54.330] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528873
+[07:16:54.334] replace order request
+[07:16:54.335]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:16:54.335] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735528882
+[07:17:04.251] replace order request
+[07:17:04.252]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.49
+}
+[07:17:04.255] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735529055
+[07:17:04.260] replace order request
+[07:17:04.261]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AMD"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 228.49
+}
+[07:17:04.262] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004735529053
+[07:17:04.549]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:17:04.550] 400
+[07:17:04.728]
+{
+  "message": "Order in status CANCELED cannot be replaced"
+}
+[07:17:04.732] 400
+[07:17:14.529]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[07:17:14.984]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.k2INw2jqULnKoclvb4yYhQFZXTFeHu9FXBFyjPLCy8c@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1NTQzNSwiaWF0IjoxNzYzNjUxODM1LCJqdGkiOiJjOGEzZWI0OC1kNWI1LTQxZGItOThkNC1iOWVkOGI1ZmMyODIifQ.hVBcQmt8bBYKN9RC28KBemD3Thzx_9Xhyi0IyK-OM3w"
+}
+[07:56:43.221]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@"
+}
+[07:56:43.883]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "e65DJF3Qyuhxwx4T4bJZyHOm0ECI2xj0wEcf1eoGfajat2UmGY4vvvImZO3QA1wNIBJLZJOyQSl_1-nTGbjxKedoYHYO_uWY7Z7YpC4xTfUyjIbm9Xr02a-NVTKXgDK_hcstvXw4_7c@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.OEG_ClLNcUA_jzjHwe3eORPAbPy0s6pCPIRwaRvsoXI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzY1NzgwMywiaWF0IjoxNzYzNjU0MjAzLCJqdGkiOiI5NzI1ZmIzNS1iMDQyLTQwYjgtYWUxOS05NTllNzRiMDkzNTAifQ.G37-3i4sLryLgu7_LZzlp2qino4sYCZLQE5EA9s_K8w"
+}

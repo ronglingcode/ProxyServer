@@ -1,0 +1,542 @@
+[06:21:39.385]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:21:40.034]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.f8RT4BbcYxVknp7E4weS_Xg1G9hFMZyZG8yqTObfYUw@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODA5OCwiaWF0IjoxNzYyNzg0NDk4LCJqdGkiOiJiMzMyMWIxYi1kZjYzLTRmY2YtYTQxYi1iN2E0YmEyZjhiMzgifQ.JG9EzgsDZsMK9t1f5EUHwIJcK7XpoSb-lvx2YVkkQ2g"
+}
+[06:23:20.720]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:23:21.110]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.7eKszd43ujbM7mWZUmDRgQzZ4wvwNw6U0RIAHFUz1pI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODE5OSwiaWF0IjoxNzYyNzg0NTk5LCJqdGkiOiI2YjkzNzExYy02NjE0LTRlZWYtOGQ1ZC0wOWRiMTBhOGIwOTMifQ.qU1fkalZvGXBAW6d-E-_M_HTLJPaVCAb1kH2sVksrjE"
+}
+[06:25:37.168]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:25:37.651]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.cRDAeayyZp8m3UHUei4PaECeZF6MYQz5PU6UB5Fd0lA@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODMzNSwiaWF0IjoxNzYyNzg0NzM1LCJqdGkiOiI1ZWQ2MjA3Yi00NTVmLTRlZTUtYTFmZC0wOTRiZGVlYzA2NzEifQ.CIPcVOTUI4gTHtijtPFbs0mz0pTy2tu0L2No6CkPnCw"
+}
+[06:28:02.411]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:28:02.958]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t._HWTjFvDNe-YXACiHLZze8Qabk-cD86TzZy-CXLQ0FI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODQ4MCwiaWF0IjoxNzYyNzg0ODgwLCJqdGkiOiJiZjg1OTNkOS05ZDE5LTRmYmEtYmYwZi1jMGFkNGY3MDI0ZjkifQ.Jji86f2GF2rVEyX2Sx23-ep7j3GFQ0HBRBl7-S6OiI0"
+}
+[06:29:19.555]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:29:19.943]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.SGtR2naQgD2-iJX-OoJXnkTyGS3KyRV7yR1UDGvjXuQ@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODU1OCwiaWF0IjoxNzYyNzg0OTU4LCJqdGkiOiI2ODM3ZGRmNS0yZWE0LTQ3YzQtOTlhNi02NjA5MjY0MTJiNmYifQ.KDGw0xZEnB1fLjjVNbgpDlRI0Sl58CnYrbbgcUXGkKU"
+}
+[06:31:04.470]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:31:05.011]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.VS-N385gd9mn95LJhT4Bj7mb_MQrd6T7mnoc-HuaaWo@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4ODY2MiwiaWF0IjoxNzYyNzg1MDYyLCJqdGkiOiI0N2RlOTUyYi1hOWYzLTQxNTktOGY3My02ODI2ZWY2Y2RjNTUifQ.ikF-ac7-vjSSbji-XY1XUlAwUpzOcNOlj5jGNtq1tYA"
+}
+[06:33:18.595] rongling
+[06:33:18.596] post order
+[06:33:19.782]
+{
+  "orderId": "1004641268133"
+}
+[06:33:57.001] replace order request
+[06:33:57.002]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 157.88
+}
+[06:33:57.003] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268136
+[06:34:11.076] replace order request
+[06:34:11.076]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 159.83
+}
+[06:34:11.077] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268142
+[06:34:29.186] replace order request
+[06:34:29.187]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 158.95
+}
+[06:34:29.188] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268291
+[06:35:05.450] replace order request
+[06:35:05.450]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 158.79
+}
+[06:35:05.452] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268363
+[06:35:14.230] replace order request
+[06:35:14.233]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:35:14.235] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268482
+[06:35:19.148] replace order request
+[06:35:19.149]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 159.05
+}
+[06:35:19.149] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268145
+[06:35:30.002] replace order request
+[06:35:30.002]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 158.8
+}
+[06:35:30.003] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268555
+[06:36:07.806] replace order request
+[06:36:07.807]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 158.15
+}
+[06:36:07.808] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268596
+[06:37:26.154] replace order request
+[06:37:26.155]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 159.85
+}
+[06:37:26.156] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268148
+[06:39:05.754] replace order request
+[06:39:05.755]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 161.76
+}
+[06:39:05.755] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268151
+[06:39:58.354] replace order request
+[06:39:58.354]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 155.89
+}
+[06:39:58.355] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268150
+[06:39:58.360] replace order request
+[06:39:58.361]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 155.89
+}
+[06:39:58.362] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268153
+[06:39:58.364] replace order request
+[06:39:58.364]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 22
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 155.89
+}
+[06:39:58.365] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268156
+[06:40:11.012] replace order request
+[06:40:11.013]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:40:11.014] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641269298
+[06:40:59.013] replace order request
+[06:40:59.013]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 161.84
+}
+[06:40:59.013] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268154
+[06:41:21.114] replace order request
+[06:41:21.115]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 160.8
+}
+[06:41:21.115] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641269656
+[06:41:27.231] replace order request
+[06:41:27.232]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 161.84
+}
+[06:41:27.232] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641269717
+[06:43:27.345]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:43:27.882]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.YmlsgdQ0Wq1ijgLPpxDCLGNB-HqRucUWdJ0qzHZ4k2c@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2Mjc4OTQwNSwiaWF0IjoxNzYyNzg1ODA1LCJqdGkiOiI3MzQ1YjFmNS02YTEwLTQ2ZjItYWM4NC1hZmMwMjNmNWVkMzAifQ.sStNEfo2fqElaPMQpPgIGIzPx0atywGM3jnwoJoPciM"
+}
+[06:45:11.890] replace order request
+[06:45:11.890]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 23
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:45:11.890] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641269735
+[06:46:07.689] replace order request
+[06:46:07.689]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 22
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 158.72
+}
+[06:46:07.690] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641269476
+[06:47:11.461] replace order request
+[06:47:11.462]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 22
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 156.46
+}
+[06:47:11.462] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268159
+[06:47:11.464] replace order request
+[06:47:11.464]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "MNDY"
+      },
+      "instruction": "SELL",
+      "quantity": 22
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 156.46
+}
+[06:47:11.464] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004641268162
