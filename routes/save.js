@@ -121,4 +121,18 @@ router.post('/timeandsales', async (req, res) => {
     }
 });
 
+
+// POST endpoint for agent response 
+router.post('/agentresponse', async (req, res) => {
+    try {
+        const {
+            symbol,
+            response,
+            millisecondsSinceMarketOpen
+        } = req.body;
+    } catch (error) {
+        console.error('Error saving agent response:', error);
+        res.status(500).json({ error });
+    }
+});
 module.exports = router;
