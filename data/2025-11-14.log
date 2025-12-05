@@ -1,0 +1,1074 @@
+[06:22:08.494]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:22:09.253]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.RRylsKUM8URTFCz1Jjs-MJeOIatdK8blPQcff-YXY74@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzEzMzcyOCwiaWF0IjoxNzYzMTMwMTI4LCJqdGkiOiI5ZGU2NTIwYy00OGQ3LTRmOGEtYjM1Ny1jZjVjZWU3YjhjYjEifQ.0pjUtYALV1jBzAAgb45gUOxbf7A3YVmMbzHyFe2UxYI"
+}
+[06:31:04.982] rongling
+[06:31:04.983] post order
+[06:31:06.007]
+{
+  "orderId": "1004687104967"
+}
+[06:31:08.062] cancel order request
+[06:31:08.686]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:31:14.704] rongling
+[06:31:14.705] post order
+[06:31:15.754]
+{
+  "orderId": "1004687105015"
+}
+[06:31:31.147] rongling
+[06:31:31.148] post order
+[06:31:32.223]
+{
+  "orderId": "1004687105083"
+}
+[06:31:56.259] rongling
+[06:31:56.260] post order
+[06:31:56.262] cancel order request
+[06:31:56.831]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:31:57.696]
+{
+  "orderId": "1004687105162"
+}
+[06:32:18.366] rongling
+[06:32:18.367] post order
+[06:32:18.368] cancel order request
+[06:32:18.934]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:19.691]
+{
+  "orderId": "1004687105237"
+}
+[06:32:20.355] rongling
+[06:32:20.355] post order
+[06:32:20.359] cancel order request
+[06:32:21.348]
+{
+  "orderId": "1004687105268"
+}
+[06:32:21.751] cancel order request
+[06:32:21.801]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:22.040]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:32:22.354] rongling
+[06:32:22.355] post order
+[06:32:22.358] cancel order request
+[06:32:23.310]
+{
+  "orderId": "1004687105305"
+}
+[06:32:23.673]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:24.358] rongling
+[06:32:24.359] post order
+[06:32:24.360] cancel order request
+[06:32:24.602] cancel order request
+[06:32:24.842] cancel order request
+[06:32:25.379]
+{
+  "orderId": "1004687105342"
+}
+[06:32:25.760]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:25.795]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:32:25.812]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:32:27.361] rongling
+[06:32:27.362] post order
+[06:32:27.364] cancel order request
+[06:32:28.367]
+{
+  "orderId": "1004687105377"
+}
+[06:32:28.523] cancel order request
+[06:32:28.704]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:28.989]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:32:29.356] rongling
+[06:32:29.361] post order
+[06:32:29.363] cancel order request
+[06:32:30.244] cancel order request
+[06:32:30.366]
+{
+  "orderId": "1004687105419"
+}
+[06:32:30.390]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:32:30.933]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:39.046] rongling
+[06:32:39.047] post order
+[06:32:39.049] cancel order request
+[06:32:39.618]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:32:40.439]
+{
+  "orderId": "1004687105483"
+}
+[06:33:11.361] rongling
+[06:33:11.362] post order
+[06:33:11.364] cancel order request
+[06:33:12.034]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:33:12.880]
+{
+  "orderId": "1004687105578"
+}
+[06:33:13.366] rongling
+[06:33:13.367] post order
+[06:33:13.368] cancel order request
+[06:33:14.458]
+{
+  "orderId": "1004687105613"
+}
+[06:33:14.474]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:33:15.363] rongling
+[06:33:15.363] post order
+[06:33:15.365] cancel order request
+[06:33:16.338]
+{
+  "orderId": "1004687105648"
+}
+[06:33:16.759]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:33:17.893] cancel order request
+[06:33:17.895] cancel order request
+[06:33:18.083] cancel order request
+[06:33:18.085] cancel order request
+[06:33:18.570]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:33:18.572] cancel order request
+[06:33:18.809]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:33:18.811] cancel order request
+[06:33:18.818]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:33:18.869]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:33:18.932]
+{
+  "message": "Order in state PENDING_CANCEL cannot be canceled"
+}
+[06:33:19.165]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:34:23.929] rongling
+[06:34:23.930] post order
+[06:34:24.966]
+{
+  "orderId": "1004687105855"
+}
+[06:34:27.344] replace order request
+[06:34:27.345]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 166.7
+}
+[06:34:27.347] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105858
+[06:34:27.976] replace order request
+[06:34:27.980]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 166.91
+}
+[06:34:27.983] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105861
+[06:34:41.864] replace order request
+[06:34:41.865]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:34:41.865] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105863
+[06:34:41.866] replace order request
+[06:34:41.867]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:34:41.867] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105866
+[06:34:41.868] replace order request
+[06:34:41.868]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:34:41.869] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105869
+[06:34:41.869] replace order request
+[06:34:41.870]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:34:41.870] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105872
+[06:35:07.905] replace order request
+[06:35:07.909]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 167.27
+}
+[06:35:07.910] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105864
+[06:35:18.442] replace order request
+[06:35:18.442]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 167.61
+}
+[06:35:18.442] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105867
+[06:35:41.368] replace order request
+[06:35:41.368]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:35:41.369] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105870
+[06:35:47.215] replace order request
+[06:35:47.216]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:35:47.216] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105873
+[06:35:53.357] replace order request
+[06:35:53.358]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 68
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:35:53.360] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105881
+[06:35:53.362] replace order request
+[06:35:53.362]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 68
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:35:53.362] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105884
+[06:35:53.364] replace order request
+[06:35:53.364]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:35:53.364] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105878
+[06:35:53.365] replace order request
+[06:35:53.366]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 166.36
+}
+[06:35:53.366] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105875
+[06:36:06.287] replace order request
+[06:36:06.287]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 68
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 168.97
+}
+[06:36:06.290] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105882
+[06:36:22.154] replace order request
+[06:36:22.155]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 68
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 169.96
+}
+[06:36:22.155] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105885
+[06:36:23.822] replace order request
+[06:36:23.822]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 68
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 169.78
+}
+[06:36:23.823] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742154
+[06:36:25.778] replace order request
+[06:36:25.779]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 170.07
+}
+[06:36:25.779] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105879
+[06:37:18.683] replace order request
+[06:37:18.683]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 170.02
+}
+[06:37:18.684] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742070
+[06:37:27.471] replace order request
+[06:37:27.475]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 168.9
+}
+[06:37:27.477] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742282
+[06:37:52.881] replace order request
+[06:37:52.885]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:37:52.887] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687105876
+[06:38:03.049] rongling
+[06:38:03.049] post order
+[06:38:03.426]
+{
+  "orderId": "1004687742365"
+}
+[06:38:06.378] replace order request
+[06:38:06.379]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 169.73
+}
+[06:38:06.380] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742367
+[06:38:14.488] rongling
+[06:38:14.489] post order
+[06:38:14.916]
+{
+  "orderId": "1004687742396"
+}
+[06:38:32.683] cancel order request
+[06:38:32.959]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:40:09.156] rongling
+[06:40:09.156] post order
+[06:40:09.604]
+{
+  "orderId": "1004687742613"
+}
+[06:40:30.226] replace order request
+[06:40:30.226]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 169.28
+}
+[06:40:30.227] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742615
+[06:41:20.892]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[06:41:21.478]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.HW5zFm8Gm-jirMZkvcAdA0d8hAJohxLfHf8uGvlZD1g@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzEzNDg4MCwiaWF0IjoxNzYzMTMxMjgwLCJqdGkiOiJhMTczZmY3NC02YzQ5LTQ2ZWQtYmI2YS1iN2ZkMGQ1OGVmMDMifQ.bnrJK4cE2Skij726QIY5B-nMEwkg8vsXGq20rnYBukY"
+}
+[06:41:25.860] rongling
+[06:41:25.860] post order
+[06:41:26.221]
+{
+  "orderId": "1004687742733"
+}
+[06:41:31.600] replace order request
+[06:41:31.601]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 169.79
+}
+[06:41:31.601] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742735
+[06:41:55.286] rongling
+[06:41:55.287] post order
+[06:41:55.777]
+{
+  "orderId": "1004687742808"
+}
+[06:41:58.785] replace order request
+[06:41:58.786]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 169.79
+}
+[06:41:58.786] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742810
+[06:42:05.026] rongling
+[06:42:05.026] post order
+[06:42:05.454]
+{
+  "orderId": "1004687742827"
+}
+[06:42:09.942] replace order request
+[06:42:09.943]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:42:09.943] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742830
+[06:42:11.064] replace order request
+[06:42:11.065]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:42:11.065] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742830
+[06:42:11.291]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:42:11.291] 400
+[06:42:11.554] replace order request
+[06:42:11.554]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:42:11.555] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687742830
+[06:42:11.771]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[06:42:11.772] 400
+[06:45:25.535] rongling
+[06:45:25.537] post order
+[06:45:25.952]
+{
+  "orderId": "1004687743105"
+}
+[06:45:29.745] rongling
+[06:45:29.746] post order
+[06:45:30.073]
+{
+  "orderId": "1004687743112"
+}
+[06:45:33.693] replace order request
+[06:45:33.694]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 170.47
+}
+[06:45:33.696] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743115
+[06:46:03.711] replace order request
+[06:46:03.712]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 170.04
+}
+[06:46:03.713] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743107
+[06:46:27.950] replace order request
+[06:46:27.951]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 170.11
+}
+[06:46:27.951] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743194
+[06:46:30.061] replace order request
+[06:46:30.062]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 170.99
+}
+[06:46:30.062] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743108
+[06:46:36.350] replace order request
+[06:46:36.350]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 171.96
+}
+[06:46:36.351] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743247
+[06:47:44.376] replace order request
+[06:47:44.376]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 170.76
+}
+[06:47:44.377] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743243
+[06:48:16.553] replace order request
+[06:48:16.557]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 171.38
+}
+[06:48:16.559] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743402
+[06:48:19.446] replace order request
+[06:48:19.446]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "PLTR"
+      },
+      "instruction": "SELL",
+      "quantity": 69
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 171.35
+}
+[06:48:19.447] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004687743463
+[07:00:31.335]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@"
+}
+[07:00:31.798]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "siARkvac0tRVxrBfJec9gDDxkeSSAN7rWb0kniaL3cQQnDCIUpWf7l3UTZm6lVpoLA8bBthMDeKv2YUG8J2fvnkH3a_UQfIoxlidmxk41TGCgzGkIqvzyNm6QOarKpB7d8CvTSbfYiw@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.QhGYoYYfe6X8fmD3OgCnR6159ngPCu-kMoXIYtXFzro@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2MzEzNjAzMSwiaWF0IjoxNzYzMTMyNDMxLCJqdGkiOiI2N2Q3ZDU5Ny05MDBhLTRiYjMtYmM2NS1kMzg0ZGM5ODBlYmEifQ.OCBPAdgp4hDelyEXyx0dMMsncob8sY-4fWl4MkLCA5U"
+}
