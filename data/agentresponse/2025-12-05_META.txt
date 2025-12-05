@@ -1,0 +1,2 @@
+17:38:02
+VWAP, or Volume-Weighted Average Price, is a trading benchmark that indicates the average price a security has traded at throughout the day, based on both volume and price. In day trading, use VWAP to identify trends: if the price is above VWAP, it suggests a bullish trend; if below, a bearish trend. Traders often use VWAP for entry and exit points, buying when the price crosses above it and selling when it falls below. Additionally, it helps in gauging market sentiment and confirming trade signals, serving as a dynamic support or resistance level.
