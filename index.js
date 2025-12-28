@@ -20,5 +20,6 @@ app.use(bodyParser.json());
 app.use('/tradeStationApi', require('./routes/tradeStation'));
 app.use('/schwabApi', require('./routes/schwab'));
 app.use('/save', require('./routes/save'));
+app.use('/databento', require('./routes/databento'));
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`))

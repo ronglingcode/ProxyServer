@@ -1,0 +1,3807 @@
+[06:07:50.499]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:07:51.146]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.jDWCf3HsA9sPSV5JJaNEtywZ3l_e_MMmhSWwp_lR9H0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2NTY3MCwiaWF0IjoxNzY1NDYyMDcwLCJqdGkiOiJjNGEyZDliOC0wMjJlLTQ3ZTUtOTVjZC0yNTVlMzJmNjM2YmMifQ.sBQiE33W6UwlMGXfX1kWnilRx3nKROcQKmUDxm76FGA"
+}
+[06:08:38.963]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:08:39.523]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.SDVlYuDSQtuQsxBSJFKyvc5g7ixqrg4ZG6Rhm8niqHg@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2NTcxOCwiaWF0IjoxNzY1NDYyMTE4LCJqdGkiOiJiY2E1ZDdhZS1lMWVmLTQ4ZTUtYWY4YS02MDE1YjI5ZmY4NWMifQ.sLFLMJ3DifX5ImW4MfAQQVFXYZDDIbZFMW_ytnH0zC0"
+}
+[06:09:01.314]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:09:01.847]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.RXCz_coAXNI4vrlMMCWd2C70lyflnCcaOHCX20XkES4@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2NTc0MSwiaWF0IjoxNzY1NDYyMTQxLCJqdGkiOiIxZTE3YmUxOS02NTVmLTRhOTktYmFmNi0zMjE5NTU5YTkwNzQifQ.2kyxzClqZj1DCnu8xtxvQy1jfZEZq-rKR4OEJSdwoH4"
+}
+[06:14:54.583]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:14:55.224]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.p2ELu9cEDH8BjNkGHjqrNzsGFeTMvbHHiIJxIwScYc0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2NjA5NCwiaWF0IjoxNzY1NDYyNDk0LCJqdGkiOiJhN2I5ZDhhNi02YzU5LTQ3MDgtYTk2OC04OGYyZGZmZmI4ZjgifQ.nKo5DgHBM8ChTWGHWKy50BhrWn9chy1IzTctFvyeMuw"
+}
+[06:27:40.964]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:27:41.444]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.bfyq9x7Z76yJttq7bbE-Tf27hSryh4lSEohEcqPzOlI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2Njg2MCwiaWF0IjoxNzY1NDYzMjYwLCJqdGkiOiIzMjc1YWVlZC0wYjM1LTQwNzMtYmExZC1mZGE0ZDg3Zjk2NTIifQ.gKjdTd1H9WLtKWLrZn1NiJSkpEyDQswT9zgVSJi1-hA"
+}
+[06:29:19.402]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:29:20.172]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.icybn6RQ9XOtnq2TE6F8RV8rQnB__CSlEKMb36Gk2yk@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2Njk1OSwiaWF0IjoxNzY1NDYzMzU5LCJqdGkiOiIyMDE5ZWNiNC1hYTM1LTQyMjgtODA0ZS0zN2IyOTIzODhkZGMifQ.kyz-Os8adNwcOdY4HEDGlbM6vQxPi78jbvfOf_Jp6T0"
+}
+[06:30:28.556] rongling
+[06:30:28.557] post order
+[06:30:30.317]
+{
+  "orderId": "1004885241643"
+}
+[06:30:45.465] replace order request
+[06:30:45.467]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 188.9
+}
+[06:30:45.468] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241649
+[06:30:47.312] replace order request
+[06:30:47.313]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 188.9
+}
+[06:30:47.314] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241646
+[06:30:51.321] replace order request
+[06:30:51.322]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:51.323] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241700
+[06:30:51.624] replace order request
+[06:30:51.624]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:51.625] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241703
+[06:30:51.822]
+{
+  "message": "Order in status FILLED cannot be replaced"
+}
+[06:30:51.823] 400
+[06:30:51.864]
+{
+  "message": "Order in status FILLED cannot be replaced"
+}
+[06:30:51.865] 400
+[06:30:59.962] replace order request
+[06:30:59.963]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 35
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 188.17
+}
+[06:30:59.964] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241652
+[06:31:14.841] rongling
+[06:31:14.843] post order
+[06:31:15.006] rongling
+[06:31:15.007] post order
+[06:31:15.327]
+{
+  "orderId": "1004885241744"
+}
+[06:31:15.441]
+{
+  "orderId": "1004885241748"
+}
+[06:31:37.511] rongling
+[06:31:37.512] post order
+[06:31:37.683] rongling
+[06:31:37.684] post order
+[06:31:39.229]
+{
+  "orderId": "1004885241804"
+}
+[06:31:39.416]
+{
+  "orderId": "1004885241808"
+}
+[06:31:52.125] replace order request
+[06:31:52.127]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 187.28
+}
+[06:31:52.129] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241811
+[06:32:00.696] replace order request
+[06:32:00.697]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 189.32
+}
+[06:32:00.698] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241810
+[06:32:01.601] replace order request
+[06:32:01.602]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 189.32
+}
+[06:32:01.602] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241806
+[06:32:01.909] replace order request
+[06:32:01.910]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 189.32
+}
+[06:32:01.910] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241750
+[06:32:16.764] replace order request
+[06:32:16.765]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 186.65
+}
+[06:32:16.767] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241807
+[06:33:07.136] replace order request
+[06:33:07.137]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 185.28
+}
+[06:33:07.138] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241751
+[06:33:07.329] replace order request
+[06:33:07.330]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 185.28
+}
+[06:33:07.333] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241747
+[06:34:38.859] replace order request
+[06:34:38.860]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.03
+}
+[06:34:38.860] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241870
+[06:34:38.867] replace order request
+[06:34:38.867]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.03
+}
+[06:34:38.868] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241654
+[06:34:38.869] replace order request
+[06:34:38.869]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.03
+}
+[06:34:38.870] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241746
+[06:34:38.871] replace order request
+[06:34:38.871]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.03
+}
+[06:34:38.872] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241660
+[06:34:38.874] replace order request
+[06:34:38.874]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.03
+}
+[06:34:38.874] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241657
+[06:35:27.167]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:35:27.632]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.8huhotNPr2ArGA0yaw5FZM8id_96to2ZsWKyn-5bsMw@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2NzMyNiwiaWF0IjoxNzY1NDYzNzI2LCJqdGkiOiI2ZjdjZTY5Yy1lNmQxLTRmM2MtOGQ1My0yNDg5NGQ4ODdhOGQifQ.qJ0-MBIbELKYlKsODdC-4cJwFGMGHIkTgeMLB8NEfkg"
+}
+[06:36:19.965] rongling
+[06:36:19.967] post order
+[06:36:20.180] rongling
+[06:36:20.181] post order
+[06:36:20.389]
+{
+  "orderId": "1004885986408"
+}
+[06:36:20.410] rongling
+[06:36:20.411] post order
+[06:36:20.543]
+{
+  "orderId": "1004885986414"
+}
+[06:36:20.934]
+{
+  "orderId": "1004885986419"
+}
+[06:37:09.773] replace order request
+[06:37:09.774]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:37:09.775] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885986411
+[06:37:09.778] replace order request
+[06:37:09.779]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:37:09.779] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885241664
+[06:37:09.780] replace order request
+[06:37:09.781]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:37:09.781] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885986422
+[06:37:09.782] replace order request
+[06:37:09.782]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:37:09.783] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004885986417
+[06:51:25.816] rongling
+[06:51:25.817] post order
+[06:51:26.081] rongling
+[06:51:26.082] post order
+[06:51:26.242]
+{
+  "orderId": "1004885987892"
+}
+[06:51:26.364] rongling
+[06:51:26.365] post order
+[06:51:26.551]
+{
+  "orderId": "1004885987899"
+}
+[06:51:26.598] rongling
+[06:51:26.599] post order
+[06:51:26.831] rongling
+[06:51:26.831] post order
+[06:51:26.833]
+{
+  "orderId": "1004885987903"
+}
+[06:51:26.965]
+{
+  "orderId": "1004885987907"
+}
+[06:51:27.270]
+{
+  "orderId": "1004885987911"
+}
+[06:53:18.541] cancel order request
+[06:53:18.542] cancel order request
+[06:53:18.543] cancel order request
+[06:53:18.544] cancel order request
+[06:53:18.546] cancel order request
+[06:53:19.901]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:53:20.024]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:53:23.198] cancel order request
+[06:53:23.203] cancel order request
+[06:53:25.076]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:53:25.078] cancel order request
+[06:53:25.095]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:53:25.239]
+{
+  "type": "Buffer",
+  "data": []
+}
+[06:53:26.228]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:53:29.650]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:53:29.922]
+{
+  "message": "Order in state CANCELED cannot be canceled"
+}
+[06:53:51.381] rongling
+[06:53:51.381] post order
+[06:53:51.528] rongling
+[06:53:51.529] post order
+[06:53:51.679] rongling
+[06:53:51.679] post order
+[06:53:51.863] rongling
+[06:53:51.864] post order
+[06:53:52.062] rongling
+[06:53:52.064] post order
+[06:53:52.847]
+{
+  "orderId": "1004886930166"
+}
+[06:53:53.083]
+{
+  "orderId": "1004886930170"
+}
+[06:53:53.196]
+{
+  "orderId": "1004886930174"
+}
+[06:53:53.287]
+{
+  "orderId": "1004886930178"
+}
+[06:53:53.450]
+{
+  "orderId": "1004886930182"
+}
+[06:54:26.097] replace order request
+[06:54:26.097]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.97
+}
+[06:54:26.098] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930185
+[06:54:38.615]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:54:39.147]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.CS41NpH-qS6U9ZOFDv31hbGQ7t3qFW823dnA0FIrNlI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2ODQ3OCwiaWF0IjoxNzY1NDY0ODc4LCJqdGkiOiJkOTRjNGQ3ZC00NmE0LTRkYzItODZkZC0xMjVmZTQ0NWJjOWYifQ.fvcwoNgdkxOGDydWYJJbHXo522XY7w5vqCJgpq-AZoI"
+}
+[06:55:03.177] replace order request
+[06:55:03.178]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:55:03.179] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930169
+[06:55:31.930] replace order request
+[06:55:31.931]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:55:31.932] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930236
+[06:55:31.935] replace order request
+[06:55:31.935]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:55:31.935] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930177
+[06:55:31.937] replace order request
+[06:55:31.937]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:55:31.937] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930181
+[06:55:31.938] replace order request
+[06:55:31.939]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:55:31.939] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930173
+[06:56:08.369]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:56:08.836]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.SP3qRp-cRV-KZ_AZTmKWXlvBRHzPJsNI6DHZSNOofh4@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2ODU2OCwiaWF0IjoxNzY1NDY0OTY4LCJqdGkiOiIyODgyMmZlMC1iOGE0LTQ3MzctYTgzYi05NjFhYTcxZDNmMGEifQ.cQGHC2VxHp0aDr9eE8rxL7ZSz6nhppoYIv9ZJoD5Zok"
+}
+[06:56:18.016] rongling
+[06:56:18.017] post order
+[06:56:18.206] rongling
+[06:56:18.206] post order
+[06:56:18.367] rongling
+[06:56:18.368] post order
+[06:56:18.447]
+{
+  "orderId": "1004886930408"
+}
+[06:56:18.711]
+{
+  "orderId": "1004886930412"
+}
+[06:56:19.080]
+{
+  "orderId": "1004886930416"
+}
+[06:56:28.573] replace order request
+[06:56:28.573]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.87
+}
+[06:56:28.574] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930411
+[06:56:33.916] replace order request
+[06:56:33.918]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 189.65
+}
+[06:56:33.920] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930415
+[06:56:36.164]
+{
+  "message": "Order cannot be replaced while in status FILLED"
+}
+[06:56:36.165] 400
+[06:57:29.972] rongling
+[06:57:29.973] post order
+[06:57:30.151] rongling
+[06:57:30.151] post order
+[06:57:30.320] rongling
+[06:57:30.320] post order
+[06:57:30.356]
+{
+  "orderId": "1004886930497"
+}
+[06:57:30.487] rongling
+[06:57:30.489] post order
+[06:57:30.601]
+{
+  "orderId": "1004886930501"
+}
+[06:57:30.655] rongling
+[06:57:30.656] post order
+[06:57:30.800]
+{
+  "orderId": "1004886930505"
+}
+[06:57:31.126]
+{
+  "orderId": "1004886930509"
+}
+[06:57:31.399]
+{
+  "orderId": "1004886930513"
+}
+[06:57:37.844] replace order request
+[06:57:37.845]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.7
+}
+[06:57:37.848] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930507
+[06:57:37.849] replace order request
+[06:57:37.850]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.7
+}
+[06:57:37.850] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930515
+[06:57:37.851] replace order request
+[06:57:37.852]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.7
+}
+[06:57:37.852] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930511
+[06:57:37.853] replace order request
+[06:57:37.853]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.7
+}
+[06:57:37.854] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930503
+[06:57:37.855] replace order request
+[06:57:37.855]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 34
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.7
+}
+[06:57:37.855] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930499
+[06:59:28.326] rongling
+[06:59:28.327] post order
+[06:59:29.466]
+{
+  "orderId": "1004886930681"
+}
+[06:59:33.806] replace order request
+[06:59:33.806]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.807] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930684
+[06:59:33.808] replace order request
+[06:59:33.809]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.810] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930687
+[06:59:33.811] replace order request
+[06:59:33.811]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.812] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930690
+[06:59:33.813] replace order request
+[06:59:33.813]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.814] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930693
+[06:59:33.815] replace order request
+[06:59:33.815]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.816] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930696
+[06:59:33.817] replace order request
+[06:59:33.817]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:33.818] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930699
+[06:59:34.132] replace order request
+[06:59:34.133]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 79
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:34.134] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930711
+[06:59:34.218] replace order request
+[06:59:34.221]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 79
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:34.224] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930708
+[06:59:34.442] replace order request
+[06:59:34.443]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:34.443] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930702
+[06:59:34.471] replace order request
+[06:59:34.472]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 80
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:59:34.473] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930705
+[07:00:05.559] rongling
+[07:00:05.560] post order
+[07:00:06.655]
+{
+  "orderId": "1004886930812"
+}
+[07:00:14.313] replace order request
+[07:00:14.313]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 189.39
+}
+[07:00:14.314] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930815
+[07:00:14.578] replace order request
+[07:00:14.580]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 189.34
+}
+[07:00:14.581] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930818
+[07:00:15.424] replace order request
+[07:00:15.425]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:15.427] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930815
+[07:00:15.601] replace order request
+[07:00:15.601]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:15.602] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930818
+[07:00:15.694]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[07:00:15.695] 400
+[07:00:15.770] replace order request
+[07:00:15.772]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:15.773] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930821
+[07:00:15.957]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[07:00:15.959] 400
+[07:00:17.425] replace order request
+[07:00:17.427]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:17.428] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930827
+[07:00:19.717] replace order request
+[07:00:19.718]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:19.718] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930830
+[07:00:25.731] replace order request
+[07:00:25.732]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.733] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930853
+[07:00:25.734] replace order request
+[07:00:25.734]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.735] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930855
+[07:00:25.736] replace order request
+[07:00:25.736]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.737] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930824
+[07:00:25.738] replace order request
+[07:00:25.738]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.738] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930839
+[07:00:25.739] replace order request
+[07:00:25.739]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.740] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930836
+[07:00:25.794] replace order request
+[07:00:25.795]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:25.795] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930833
+[07:00:26.128] replace order request
+[07:00:26.129]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 72
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:00:26.129] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930842
+[07:00:42.424] rongling
+[07:00:42.425] post order
+[07:00:42.619] rongling
+[07:00:42.622] post order
+[07:00:42.772] rongling
+[07:00:42.773] post order
+[07:00:42.804]
+{
+  "orderId": "1004886930940"
+}
+[07:00:43.044]
+{
+  "orderId": "1004886930945"
+}
+[07:00:43.276]
+{
+  "orderId": "1004886930949"
+}
+[07:01:57.410] replace order request
+[07:01:57.411]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:01:57.412] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930948
+[07:01:57.414] replace order request
+[07:01:57.414]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:01:57.415] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930943
+[07:01:57.415] replace order request
+[07:01:57.416]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:01:57.416] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886930952
+[07:02:15.271] rongling
+[07:02:15.273] post order
+[07:02:15.434] rongling
+[07:02:15.435] post order
+[07:02:15.597] rongling
+[07:02:15.598] post order
+[07:02:15.727]
+{
+  "orderId": "1004886931131"
+}
+[07:02:15.873]
+{
+  "orderId": "1004886931135"
+}
+[07:02:16.147]
+{
+  "orderId": "1004886931139"
+}
+[07:02:20.508] replace order request
+[07:02:20.510]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.92
+}
+[07:02:20.511] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931141
+[07:02:20.512] replace order request
+[07:02:20.512]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.92
+}
+[07:02:20.513] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931137
+[07:02:20.514] replace order request
+[07:02:20.514]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.92
+}
+[07:02:20.515] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931133
+[07:02:35.620] replace order request
+[07:02:35.621]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:35.621] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931142
+[07:02:35.623] replace order request
+[07:02:35.623]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:35.624] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931138
+[07:02:35.625] replace order request
+[07:02:35.625]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:02:35.626] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931134
+[07:05:01.220] rongling
+[07:05:01.221] post order
+[07:05:01.403] rongling
+[07:05:01.404] post order
+[07:05:01.566] rongling
+[07:05:01.568] post order
+[07:05:01.808]
+{
+  "orderId": "1004886931468"
+}
+[07:05:01.817]
+{
+  "orderId": "1004886931472"
+}
+[07:05:02.231]
+{
+  "orderId": "1004886931477"
+}
+[07:05:04.727] replace order request
+[07:05:04.728]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:05:04.730] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931480
+[07:05:04.731] replace order request
+[07:05:04.732]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:05:04.732] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931475
+[07:05:04.733] replace order request
+[07:05:04.734]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:05:04.734] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931471
+[07:05:10.565] rongling
+[07:05:10.567] post order
+[07:05:10.760] rongling
+[07:05:10.760] post order
+[07:05:11.020]
+{
+  "orderId": "1004886931512"
+}
+[07:05:11.215]
+{
+  "orderId": "1004886931516"
+}
+[07:05:14.591] rongling
+[07:05:14.591] post order
+[07:05:14.771] rongling
+[07:05:14.772] post order
+[07:05:14.903] rongling
+[07:05:14.904] post order
+[07:05:14.973]
+{
+  "orderId": "1004886931524"
+}
+[07:05:15.233]
+{
+  "orderId": "1004886931528"
+}
+[07:05:15.448]
+{
+  "orderId": "1004886931533"
+}
+[07:05:24.616] replace order request
+[07:05:24.617]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 189.96
+}
+[07:05:24.617] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931536
+[07:05:32.634] replace order request
+[07:05:32.636]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:05:32.637] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931547
+[07:06:25.548] cancel order request
+[07:06:25.551] cancel order request
+[07:06:25.866]
+{
+  "type": "Buffer",
+  "data": []
+}
+[07:06:25.951]
+{
+  "type": "Buffer",
+  "data": []
+}
+[07:07:06.487] replace order request
+[07:07:06.488]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:07:06.488] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931531
+[07:07:43.595] replace order request
+[07:07:43.596]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 73
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 190.44
+}
+[07:07:43.596] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004886931526
+[07:12:23.576] rongling
+[07:12:23.577] post order
+[07:12:24.630]
+{
+  "orderId": "1004887746274"
+}
+[07:12:59.446] replace order request
+[07:12:59.446]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.447] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746276
+[07:12:59.448] replace order request
+[07:12:59.448]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.448] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746279
+[07:12:59.449] replace order request
+[07:12:59.449]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.450] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746282
+[07:12:59.451] replace order request
+[07:12:59.451]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.451] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746285
+[07:12:59.452] replace order request
+[07:12:59.452]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.453] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746291
+[07:12:59.454] replace order request
+[07:12:59.454]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.455] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746294
+[07:12:59.858] replace order request
+[07:12:59.860]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.861] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746300
+[07:12:59.941] replace order request
+[07:12:59.942]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:12:59.944] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746297
+[07:13:00.083] replace order request
+[07:13:00.084]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:13:00.084] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746288
+[07:13:00.195] replace order request
+[07:13:00.196]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.64
+}
+[07:13:00.197] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746303
+[07:13:16.730] replace order request
+[07:13:16.732]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.53
+}
+[07:13:16.734] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746277
+[07:13:35.099] replace order request
+[07:13:35.100]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.08
+}
+[07:13:35.101] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746372
+[07:13:35.103] replace order request
+[07:13:35.104]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.08
+}
+[07:13:35.104] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746370
+[07:13:35.106] replace order request
+[07:13:35.106]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.08
+}
+[07:13:35.107] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746374
+[07:13:35.108] replace order request
+[07:13:35.108]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.08
+}
+[07:13:35.109] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746378
+[07:13:35.110] replace order request
+[07:13:35.110]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.08
+}
+[07:13:35.110] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746380
+[07:13:44.821] replace order request
+[07:13:44.822]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.93
+}
+[07:13:44.822] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746280
+[07:13:44.825] replace order request
+[07:13:44.825]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.93
+}
+[07:13:44.826] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746292
+[07:13:44.827] replace order request
+[07:13:44.827]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.93
+}
+[07:13:44.827] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746295
+[07:13:44.828] replace order request
+[07:13:44.828]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.93
+}
+[07:13:44.829] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746283
+[07:13:44.830] replace order request
+[07:13:44.830]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.93
+}
+[07:13:44.830] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746286
+[07:13:48.626] replace order request
+[07:13:48.626]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.69
+}
+[07:13:48.628] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746494
+[07:14:20.010] replace order request
+[07:14:20.012]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:14:20.013] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746492
+[07:14:57.275] replace order request
+[07:14:57.276]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 193.8
+}
+[07:14:57.276] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746298
+[07:15:20.088]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:15:20.752]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.40A3IsGDXhxJRo979wci7His59hgp5X9g3N12P_mdKk@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2OTcyMCwiaWF0IjoxNzY1NDY2MTIwLCJqdGkiOiI0MTc3YmQ0Yy1lNWI5LTQzOGItYTc0Mi02MjllNDIwYTUzMDkifQ.qdanrJuUI18mhdR4eCDlfic0-oQOB2CbVDBRHI2uNt0"
+}
+[07:16:09.949] replace order request
+[07:16:09.949]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:16:09.950] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746301
+[07:16:09.951] replace order request
+[07:16:09.951]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:16:09.952] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746289
+[07:16:09.953] replace order request
+[07:16:09.954]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 29
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:16:09.954] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746304
+[07:16:54.204] rongling
+[07:16:54.205] post order
+[07:16:54.378] rongling
+[07:16:54.378] post order
+[07:16:54.653]
+{
+  "orderId": "1004887746811"
+}
+[07:16:54.837]
+{
+  "orderId": "1004887746818"
+}
+[07:17:21.843] replace order request
+[07:17:21.844]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 194.3
+}
+[07:17:21.844] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746814
+[07:18:40.846]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:18:41.273]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.h5XeFdxAmb-YJSWqKnipkkdgDe3eIgUTCUCtCGaTuLI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ2OTkyMCwiaWF0IjoxNzY1NDY2MzIwLCJqdGkiOiIwZmFkNjM4ZC0zMDUzLTQzNjMtYTI4Yi0xMGJiYjYwNzVjODgifQ.sdZiQ_3-8cP5ShV1afiRdzq2fbC6pVgFW9xFyT1UkRc"
+}
+[07:19:04.500] replace order request
+[07:19:04.501]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:19:04.501] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746855
+[07:19:35.941] rongling
+[07:19:35.941] post order
+[07:19:36.350]
+{
+  "orderId": "1004887746981"
+}
+[07:19:42.691] replace order request
+[07:19:42.693]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:19:42.694] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746984
+[07:19:54.953] replace order request
+[07:19:54.955]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:19:54.955] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887746821
+[07:20:16.015] rongling
+[07:20:16.017] post order
+[07:20:16.196] rongling
+[07:20:16.196] post order
+[07:20:16.493]
+{
+  "orderId": "1004887747037"
+}
+[07:20:16.654]
+{
+  "orderId": "1004887747041"
+}
+[07:20:18.856] replace order request
+[07:20:18.857]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.44
+}
+[07:20:18.859] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747043
+[07:20:18.860] replace order request
+[07:20:18.860]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.44
+}
+[07:20:18.861] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747039
+[07:20:39.748] replace order request
+[07:20:39.749]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 194.23
+}
+[07:20:39.749] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747044
+[07:21:59.777] rongling
+[07:21:59.780] post order
+[07:21:59.944] rongling
+[07:21:59.946] post order
+[07:22:00.270]
+{
+  "orderId": "1004887747244"
+}
+[07:22:00.383]
+{
+  "orderId": "1004887747249"
+}
+[07:22:03.896] replace order request
+[07:22:03.897]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:22:03.898] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747252
+[07:22:13.616] replace order request
+[07:22:13.618]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 193.86
+}
+[07:22:13.619] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747246
+[07:22:22.411] replace order request
+[07:22:22.412]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 194.93
+}
+[07:22:22.412] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747247
+[07:23:00.030] replace order request
+[07:23:00.030]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "SELL",
+      "quantity": 30
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[07:23:00.031] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004887747295
+[07:37:53.394]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:37:53.928]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.2TJAW8OHxH7YjaOVR4LkNZKb_742_9iycCPpv_GXmYI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ3MTA3MywiaWF0IjoxNzY1NDY3NDczLCJqdGkiOiJhZDllNjgzYy04MTFlLTQwZmItYTQ3Zi00MmFkYTM3ZTljZGYifQ.xBAPWyTIP1tR72VfZV6G2DpmRGPitTCmQwWFom7N3QU"
+}
+[07:57:03.392]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:57:03.890]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.PINOQVOrPwqZ3xkc9TjDvsNWWhU01rRn9XVyL5cYBjM@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ3MjIyMywiaWF0IjoxNzY1NDY4NjIzLCJqdGkiOiI0NGQxMjFjYy0wZWYyLTRlNDctYmNjOS1hNGVlNTllZjA2OTQifQ.o2LoNMRbKkvjCW9b7-LU1c3RWgMSKhPtEX9rsUqW3Fg"
+}
+[08:07:20.005]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:07:20.480]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.yC3GBfn3kIecMNNNN-z_L3OEXyh3IpAWMZcPBn3N5us@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ3Mjg0MCwiaWF0IjoxNzY1NDY5MjQwLCJqdGkiOiJmNTM4YjgxZC0xNDM1LTQ1NTUtYWJjMC04NDg3N2I3NGEwNTIifQ.olAMc3jhYwgu0gc0mwtHvmYAqu7sLOyahfrCaD4T8ck"
+}
+[08:20:46.255] rongling
+[08:20:46.256] post order
+[08:20:48.447]
+{
+  "orderId": "1004889167955"
+}
+[08:20:59.774] replace order request
+[08:20:59.775]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:20:59.777] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167964
+[08:20:59.778] replace order request
+[08:20:59.778]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:20:59.779] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167958
+[08:20:59.781] replace order request
+[08:20:59.781]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:20:59.782] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167961
+[08:20:59.783] replace order request
+[08:20:59.783]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:20:59.784] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167967
+[08:20:59.965] replace order request
+[08:20:59.966]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:20:59.967] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167973
+[08:22:37.889] rongling
+[08:22:37.889] post order
+[08:22:38.088] rongling
+[08:22:38.088] post order
+[08:22:38.249] rongling
+[08:22:38.250] post order
+[08:22:38.328]
+{
+  "orderId": "1004890022140"
+}
+[08:22:38.415] rongling
+[08:22:38.416] post order
+[08:22:38.495]
+{
+  "orderId": "1004890022144"
+}
+[08:22:38.599] rongling
+[08:22:38.600] post order
+[08:22:38.824]
+{
+  "orderId": "1004890022148"
+}
+[08:22:39.001]
+{
+  "orderId": "1004890022152"
+}
+[08:22:39.568]
+{
+  "orderId": "1004890022156"
+}
+[08:22:48.414] replace order request
+[08:22:48.414]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.34
+}
+[08:22:48.415] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022159
+[08:22:49.476] replace order request
+[08:22:49.477]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.23
+}
+[08:22:49.478] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022155
+[08:22:50.353] replace order request
+[08:22:50.353]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.14
+}
+[08:22:50.357] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022151
+[08:23:09.202] replace order request
+[08:23:09.204]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.74
+}
+[08:23:09.205] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022158
+[08:23:09.208] replace order request
+[08:23:09.208]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.74
+}
+[08:23:09.208] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022154
+[08:23:09.210] replace order request
+[08:23:09.210]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.74
+}
+[08:23:09.211] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022150
+[08:23:09.212] replace order request
+[08:23:09.212]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.74
+}
+[08:23:09.212] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022146
+[08:23:09.213] replace order request
+[08:23:09.214]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.74
+}
+[08:23:09.214] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022142
+[08:24:09.042] replace order request
+[08:24:09.044]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192
+}
+[08:24:09.045] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167984
+[08:24:09.047] replace order request
+[08:24:09.047]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192
+}
+[08:24:09.047] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167969
+[08:24:09.049] replace order request
+[08:24:09.049]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192
+}
+[08:24:09.049] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167975
+[08:24:09.050] replace order request
+[08:24:09.050]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192
+}
+[08:24:09.051] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167981
+[08:24:09.052] replace order request
+[08:24:09.052]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192
+}
+[08:24:09.052] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167978
+[08:24:16.781] replace order request
+[08:24:16.782]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.01
+}
+[08:24:16.783] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167969
+[08:24:16.785] replace order request
+[08:24:16.785]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.01
+}
+[08:24:16.786] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167975
+[08:24:16.787] replace order request
+[08:24:16.787]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 192.01
+}
+[08:24:16.788] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167984
+[08:24:19.842]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[08:24:19.843] 400
+[08:24:19.991]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[08:24:19.993] 400
+[08:24:20.172]
+{
+  "message": "Order in status REPLACED cannot be replaced"
+}
+[08:24:20.173] 400
+[08:25:29.389] rongling
+[08:25:29.390] post order
+[08:25:29.592] rongling
+[08:25:29.593] post order
+[08:25:29.793] rongling
+[08:25:29.795] post order
+[08:25:29.843]
+{
+  "orderId": "1004890022403"
+}
+[08:25:29.955]
+{
+  "orderId": "1004890022407"
+}
+[08:25:30.199]
+{
+  "orderId": "1004890022411"
+}
+[08:25:35.562] replace order request
+[08:25:35.562]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.39
+}
+[08:25:35.563] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022414
+[08:25:38.329] replace order request
+[08:25:38.330]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:25:38.331] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022418
+[08:25:49.799] replace order request
+[08:25:49.799]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.800] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022409
+[08:25:49.801] replace order request
+[08:25:49.801]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.802] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022405
+[08:25:49.803] replace order request
+[08:25:49.803]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.804] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022298
+[08:25:49.804] replace order request
+[08:25:49.805]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.805] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022300
+[08:25:49.806] replace order request
+[08:25:49.806]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.807] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022302
+[08:25:49.808] replace order request
+[08:25:49.808]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:49.808] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022292
+[08:25:50.185] replace order request
+[08:25:50.186]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 191.99
+}
+[08:25:50.186] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022295
+[08:25:54.942] replace order request
+[08:25:54.944]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.29
+}
+[08:25:54.945] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022410
+[08:25:56.132] replace order request
+[08:25:56.133]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.18
+}
+[08:25:56.134] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022406
+[08:26:18.516] replace order request
+[08:26:18.518]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[08:26:18.520] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167970
+[08:26:31.939]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:26:32.367]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.Qk3K3BEz2CMpKZGxXE5pTDrdmWybqU6uyoqc8jfOGa8@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ3Mzk5MiwiaWF0IjoxNzY1NDcwMzkyLCJqdGkiOiIyNGQ4YzMyYy1jYTUyLTQ2NzMtOGM1Ny01NDNjNzgxN2RiY2MifQ.8NvfwWCNrDb4_wgYC_F1rb44wispumdrvNRp8v1-vP0"
+}
+[08:27:16.626] replace order request
+[08:27:16.627]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.19
+}
+[08:27:16.627] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167976
+[08:27:56.843] replace order request
+[08:27:56.844]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.84
+}
+[08:27:56.845] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022459
+[08:28:08.209] replace order request
+[08:28:08.210]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.16
+}
+[08:28:08.211] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022568
+[08:28:15.552] replace order request
+[08:28:15.553]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 54
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 191.08
+}
+[08:28:15.554] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022639
+[08:30:06.191] replace order request
+[08:30:06.192]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.15
+}
+[08:30:06.193] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167985
+[08:30:06.534] replace order request
+[08:30:06.534]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.15
+}
+[08:30:06.535] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004889167982
+[08:31:20.476] replace order request
+[08:31:20.477]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "ORCL"
+      },
+      "instruction": "BUY_TO_COVER",
+      "quantity": 53
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 190.67
+}
+[08:31:20.478] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004890022766
+[08:45:42.386]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:45:42.957]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.ff0rItOigOC0pZfo1uz5i3o-0bTVtjxtvMg7f0o4VzA@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTQ3NTE0MiwiaWF0IjoxNzY1NDcxNTQyLCJqdGkiOiIyN2IyNmIwNS03ZDI2LTQ0MGEtYmY0MC0zMzE5ZmM5ODIyNmIifQ.9w_2e9Jk4EPXQ4Ai9xHSxENaWTgtmJenNzowXWL5DVA"
+}

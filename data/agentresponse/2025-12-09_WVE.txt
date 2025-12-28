@@ -1,0 +1,9 @@
+06:34:02
+- [Current Setup]: WVE is showing a VWAP rejection, with price making higher lows and testing VWAP, aligning with Entry Type 1.
+- [Trade Management]: Hold long as price holds above VWAP, look for partial exits near premarket high ($20.97). Stop out if price closes below VWAP.
+06:41:04
+- [Current Position]: Holding 2871 shares, partial exit occurred; trading above VWAP with initial entry at $20.15.
+- [Price Action]: Price tested VWAP, remains above; key support at VWAP, resistance at premarket high $20.97.
+- [Trend Analysis]: 5-period MA is trending above 9-period, indicating a bullish short-term trend.
+- [Trade Management]: Hold long as price is above VWAP. Consider adding near VWAP, target partial exits at premarket high and R3.
+- [Stop Management]: Keep stop at $19.41 unless a full candle closes below VWAP, then reassess.

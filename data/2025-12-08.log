@@ -1,0 +1,885 @@
+[06:10:37.404]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:10:38.154]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.bgsjbMupjQ4ek_TKlD3KSMeCQOQMXS1m_tGI6ta_J3I@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIwNjYzNywiaWF0IjoxNzY1MjAzMDM3LCJqdGkiOiIyM2NkMDM3Ny04ZWVkLTQ5NDktODcxOC04OTQ2Y2NiMzNmYmMifQ.GCGYZG95iTVAs-FoQ8-BL1f6nO8UyCBla4GxKr9XnZo"
+}
+[06:11:13.023]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:11:13.483]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.dobO5I8kQPhkVLPryYf5-cJuKzHaSmj0jras7T9nXN8@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIwNjY3MiwiaWF0IjoxNzY1MjAzMDcyLCJqdGkiOiIzZjk1YWZiZi01YjNlLTQ2MWEtOTU4OC0zNDZlMWEyZDYyZTYifQ.lZpzqqfS1KKtxzM4RVEWnnmd4cSrwv7Lygdg0pLJh0o"
+}
+[06:30:06.437] rongling
+[06:30:06.438] post order
+[06:30:07.614]
+{
+  "orderId": "1004853029083"
+}
+[06:30:24.318]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:30:24.929]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.2IFTophFARo9-FNuFUEYBgkP-5dtp3qWungrLbhueJc@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIwNzgyNCwiaWF0IjoxNzY1MjA0MjI0LCJqdGkiOiJlYThmZTdkNC0xYzYyLTQ4ZWMtOWVmZi03ZTIyZDY0ODM1YzIifQ.HUjEIZ3KjSZ2dZhFEEr9UxZfBdZOmBi7H8gYvKjZ0xE"
+}
+[06:30:51.469] replace order request
+[06:30:51.470]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 130
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:30:51.471] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029086
+[06:31:06.656] replace order request
+[06:31:06.657]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 130
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 402.72
+}
+[06:31:06.658] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029088
+[06:31:16.376] replace order request
+[06:31:16.376]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 130
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 404.11
+}
+[06:31:16.378] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029089
+[06:31:20.783] replace order request
+[06:31:20.784]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 130
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 404.65
+}
+[06:31:20.784] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029095
+[06:31:38.283] replace order request
+[06:31:38.284]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 130
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 406.59
+}
+[06:31:38.285] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029092
+[06:31:38.566]
+{
+  "message": "Order in status FILLED cannot be replaced"
+}
+[06:31:38.567] 400
+[06:31:41.107] replace order request
+[06:31:41.108]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 406.59
+}
+[06:31:41.109] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029101
+[06:31:43.961] replace order request
+[06:31:43.962]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 407.91
+}
+[06:31:43.962] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029298
+[06:31:47.937] replace order request
+[06:31:47.938]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.01
+}
+[06:31:47.939] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029110
+[06:31:49.489] replace order request
+[06:31:49.489]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:31:49.490] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029107
+[06:31:51.538] replace order request
+[06:31:51.539]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.7
+}
+[06:31:51.540] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029113
+[06:31:51.541] replace order request
+[06:31:51.542]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.7
+}
+[06:31:51.542] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029104
+[06:31:51.544] replace order request
+[06:31:51.544]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.7
+}
+[06:31:51.545] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029305
+[06:31:51.546] replace order request
+[06:31:51.547]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.7
+}
+[06:31:51.547] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029321
+[06:31:54.200] replace order request
+[06:31:54.201]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 407.89
+}
+[06:31:54.201] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029339
+[06:31:59.777] replace order request
+[06:31:59.778]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 408
+}
+[06:31:59.779] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029336
+[06:32:29.195] replace order request
+[06:32:29.196]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 412.77
+}
+[06:32:29.197] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029342
+[06:32:29.420] replace order request
+[06:32:29.422]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 412.77
+}
+[06:32:29.423] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029344
+[06:33:01.845] replace order request
+[06:33:01.846]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 407.87
+}
+[06:33:01.846] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029365
+[06:33:04.054] replace order request
+[06:33:04.055]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 404.22
+}
+[06:33:04.055] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029112
+[06:33:15.885] replace order request
+[06:33:15.887]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.61
+}
+[06:33:15.889] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029529
+[06:33:16.140] replace order request
+[06:33:16.141]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "LIMIT",
+  "orderStrategyType": "SINGLE",
+  "price": 409.61
+}
+[06:33:16.142] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029348
+[06:33:30.180] replace order request
+[06:33:30.180]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:33:30.181] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029567
+[06:34:37.090] replace order request
+[06:34:37.091]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "STOP",
+  "orderStrategyType": "SINGLE",
+  "stopPrice": 402.63
+}
+[06:34:37.092] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029100
+[06:35:07.776] replace order request
+[06:35:07.777]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:35:07.777] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853029456
+[06:38:07.223] rongling
+[06:38:07.224] post order
+[06:38:07.638]
+{
+  "orderId": "1004853864193"
+}
+[06:38:15.292] rongling
+[06:38:15.293] post order
+[06:38:15.677]
+{
+  "orderId": "1004853864214"
+}
+[06:39:07.701] replace order request
+[06:39:07.702]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:39:07.703] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853864217
+[06:39:07.705] replace order request
+[06:39:07.705]
+{
+  "session": "NORMAL",
+  "duration": "DAY",
+  "orderLegCollection": [
+    {
+      "orderLegType": "EQUITY",
+      "instrument": {
+        "assetType": "EQUITY",
+        "symbol": "AVGO"
+      },
+      "instruction": "SELL",
+      "quantity": 129
+    }
+  ],
+  "orderType": "MARKET",
+  "orderStrategyType": "SINGLE"
+}
+[06:39:07.706] https://api.schwabapi.com/trader/v1/accounts/64EA99E0AEF9F7479A31951E8C01CC59D02DCAC69B38E84BA8872E4A769B3347/orders/1004853864196
+[06:49:34.339]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[06:49:34.925]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.3bEgyZEDWThb1x6PQJDJmak7Gj_sktMENFCe5QP1x-k@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIwODk3NCwiaWF0IjoxNzY1MjA1Mzc0LCJqdGkiOiIyYzQ3YzY3MS00OTZiLTQwZTktYTk0MC05YjI3OTQ3OGU2ODgifQ.02jm-TblksE6KGdLSE6SME1Mpo57r0_hXpSZaOTjdP8"
+}
+[07:08:44.665]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:08:45.169]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.2ESSZPx8u8VXa7MSyh2pDVeeUvKYzgmQaxFeZlWvXgM@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxMDEyNCwiaWF0IjoxNzY1MjA2NTI0LCJqdGkiOiJkMmRhZjc5Ny1jNzgyLTQxYWQtODExNy1mNDg2MjkzNzliOWMifQ.UIzrtBgCtBfb602jwA8KEAPdwuZ-LxMh_ogVh3A6x1s"
+}
+[07:27:54.666]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:27:55.123]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.duH6foFyetoFg8ksZbzmPlifQw2yRs4_Vuprt-_4Lx0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxMTI3NCwiaWF0IjoxNzY1MjA3Njc0LCJqdGkiOiI0MDAyYTQyYy00Mjk4LTQ5ZjgtYTdkNS1iMjAxZjA0NzhhZGEifQ.26tHJcwVMD92zakbo67rf5dK4JwSde_kWhdcdCNXh9M"
+}
+[07:47:04.665]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[07:47:05.082]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.QgUU743uJ-XYoZMon_xRhgLG5xJSj_zQC6YWNIkymN4@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxMjQyNCwiaWF0IjoxNzY1MjA4ODI0LCJqdGkiOiIxYmQyZjlkMy04NTI1LTQzOTAtYTQ4Ni0zZWRiYmU2Y2YzZjgifQ.WoOWBCwCwZeIWg-lvzO1y95jwOItts9U3R3oxVZOTJg"
+}
+[08:06:59.678]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:07:00.170]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.VsS7hq37RRpul2iz9TQvS8gtyxBl0LVDBXrdYVQrl7M@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxMzYxOSwiaWF0IjoxNzY1MjEwMDE5LCJqdGkiOiJjMjU5YjRkMi00YWJlLTRiMTgtOWM1OS03ZjU2N2I2OWY3MjYifQ.NFyYopA1SN3gEEmCMYaiMnzL4y60TzGlO300KBlaHXQ"
+}
+[08:25:59.659]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:26:00.119]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.HlB-PZbr9PU7em_-OTkuNcN4wTh5fwckkO614GiksAU@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxNDc1OSwiaWF0IjoxNzY1MjExMTU5LCJqdGkiOiJlZWY3ZDE4Ni1jZDZiLTRhNzQtYTlkNS01NDdkYTk1OGM2OWEifQ.Idk-Z6Pl-fV-Yv0Uai3UkgjUFLFgSSz7nXXLKJSGb9Y"
+}
+[08:44:59.684]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[08:45:00.214]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.4CsohOvfmXW_iiJju-hOVMBl1IPjSHAKCy_WjyPHzOM@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxNTg5OSwiaWF0IjoxNzY1MjEyMjk5LCJqdGkiOiIxNmFmZWQzNy0zYmE2LTQ3ZjgtYTdmZS04ZWE0ZjVlZjAzN2MifQ.pqNFa7TJARx0a6YRPoG0kVfVIJa-o-f6vX1R0qtZf5E"
+}
+[09:03:44.315]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[09:03:44.736]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.oiNWVGih1ncLUgArROY_LNZZfyAOV_YwGNq1MtI9Oo0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxNzAyNCwiaWF0IjoxNzY1MjEzNDI0LCJqdGkiOiJjYzgwYjMwNi04NDU5LTQwYTgtYmY0My1hNGU1NmRiYTM2YjQifQ.0dWXVUuUUNmYLmgn0ZlYrfScMKmInkxwX66kafRvAnw"
+}
+[09:22:54.336]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[09:22:54.782]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.JRZMrsFUsHQd_w2eka4e9U42tYhhIAcnlH1n6cHOeLk@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxODE3NCwiaWF0IjoxNzY1MjE0NTc0LCJqdGkiOiJiYzU4ZWFmNC1lZTU5LTQzMmItOTFlNy01N2I3MDY5NDI0OGYifQ.FK2kiM49rqmFyk1abQpYaSXKogH4aTrKlkYAX-Hp_Uw"
+}
+[09:42:04.317]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[09:42:04.739]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.-GQl2NPqAhe3eI-DWrM7BBts8riU5a9Vdsm-7xxrvKk@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIxOTMyNCwiaWF0IjoxNzY1MjE1NzI0LCJqdGkiOiI3NTBmYjg3NC03YTM3LTRhYzYtOWJiYS1hZDYyNGU4N2ZkODUifQ.ld9bdrpaCjgnRhwI4m_Xbri6r12Ctpo5kVby7eQZcB4"
+}
+[10:01:59.665]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[10:02:00.360]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.D5JYiQWd6W80ntYiNgYxCQQ2B_hdktoJVu0ftJga_RA@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyMDUyMCwiaWF0IjoxNzY1MjE2OTIwLCJqdGkiOiJkOTJiZTgwMC1hNzFkLTQ1MTctOGU2Ni0xMTAxN2RkOTc5MGUifQ.Y9PPI742-eV7e6jgd7vQLPAYCroR5c8u20UCa4RBwow"
+}
+[10:20:59.657]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[10:21:00.126]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.vxeOaDHv6XDUiKmobKi1vdvSFNytNv1_Rn8gD4gN6wg@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyMTY2MCwiaWF0IjoxNzY1MjE4MDYwLCJqdGkiOiJlZjk5NTUzMC1mYzQ3LTQxYWMtOTBkMy1iNzdiNDI3YTYxYWUifQ.clq1i9vYf_nw1kUblcPqghx62KEGobnHw5OMDDekvvI"
+}
+[10:39:59.666]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[10:40:00.179]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.uYX2XO4xCP22BofvdJW8rC5fuucsYC4ogr5XQrfUlaI@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyMjgwMCwiaWF0IjoxNzY1MjE5MjAwLCJqdGkiOiIwZDEzZmFjYS01NWNiLTQyMzItYTFhNi00NDZjZThiNzAxMGUifQ.qlYJZVYP49P5YrXz-IMa42-1JxS5PkNrSuMwVwACaYE"
+}
+[10:58:59.668]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[10:59:00.286]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.HRt71P5Y7KNbnj3500juG3A0aA2a5b8I6xmhsG5L9aw@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyMzk0MCwiaWF0IjoxNzY1MjIwMzQwLCJqdGkiOiI4ZmM0MmVmMy1kNGQwLTRiZGEtYWNlMy0wOGE4NmMxMjYzNjMifQ.q5otExbq5sHh1r8KBdp6LFykmCco0dAYhA0tyFs-XGs"
+}
+[11:17:59.682]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[11:18:01.257]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.OyiswArfvuM37xuk3tQqt5m6MJoRuVXzraAm9Bl2fK4@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyNTA4MSwiaWF0IjoxNzY1MjIxNDgxLCJqdGkiOiJlNmE3OWM2OS0yYTkzLTQ5ZjUtOGU4NS05ZWFlODM0OWNjOWEifQ.SG1sLUDmMChASVb2jQzIY7PVe2HbXVzKMwBHPzKm2sM"
+}
+[11:37:59.670]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[11:38:00.722]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.HI4QBMs_Ox5N7ddpTpt7N6vNeXbfMBVQO4hGwWyzyA0@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyNjI4MCwiaWF0IjoxNzY1MjIyNjgwLCJqdGkiOiIxMTJmOGM2NC0wMjQ4LTRkNDUtOTZhMC03MTRkYmEzNGYyZDgifQ.6uIbeWiar-ywbeCIiyMB6WZH-HwWWP6t1VNAbBvJCHA"
+}
+[11:56:59.657]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[11:57:00.250]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.WKJUKvy8CwVvTNhYMbiD6z_cbXKbyqjlrtBwk04T3l4@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyNzQyMCwiaWF0IjoxNzY1MjIzODIwLCJqdGkiOiIzMTZjMzkzZS04ODQwLTRiYTktYjAyMS1iZTdkMWMwYmM0YTcifQ.tx9bAFbmaBiWCYc3hP9pRuK3cbcm_n3v5r0Ke7kgAH8"
+}
+[12:15:59.671]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[12:16:00.251]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.cT5e7YOhMeHArdRj5C00oOP8C0creYZfeM5qfGeglVc@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyODU2MCwiaWF0IjoxNzY1MjI0OTYwLCJqdGkiOiI2MzdmODYzMy0yNjYwLTQ1NzUtYjAyNy03ODYyOWFhYmQxMjEifQ.CKCm417QIi9kL5SdwqLcumwrUsFPX9YZP3N415ByAmg"
+}
+[12:34:59.664]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[12:35:00.335]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmNkYy5zY2h3YWIuY29t.Ch-s074sMMFdvWfUfhyczG_eUIIZ7pN6lFSB9U_98TA@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTIyOTcwMCwiaWF0IjoxNzY1MjI2MTAwLCJqdGkiOiJlMDkzNGZmOC03Y2ZkLTQ1OGItODZkOS1hNzJkMTY5OGMyZjUifQ.eAf1xdH0935wYDVkqfcgDuDwHkqFxmnE8Q17PqXy-Zg"
+}
+[20:59:06.566]
+{
+  "grant_type": "refresh_token",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@"
+}
+[20:59:07.273]
+{
+  "expires_in": 1800,
+  "token_type": "Bearer",
+  "scope": "api",
+  "refresh_token": "c8OGXtlLQbw94VAUTLzHD6MRqiRC_hgPNNFh6am0uVfUuuWjH6NNGrtmXFHHNQIljjbfGSjI9Og0yI9bz4e-paCQRFWnlcXsgKZ3e9Bx498qdVrgKRfHVNUCqppdKvkMSlxZnrDfCHk@",
+  "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t._x7L3kH_klsgLkNy2g8-6fDugYrgraBq7znwqge4KLY@",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmMzAwZWJhMDZkNTgzZDdmNTEyNzBmNDM1OGQ3MTk1Njk0ZGVkZTIzZWY3NWE5YmJlNGM2NWUwNWEyMGRhODczIiwiYXVkIjoiMmJDWWpBNElZeWJScHJMemNYR3N1T3BMYWxoTVhsbGQiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc2NTI1OTk0NiwiaWF0IjoxNzY1MjU2MzQ2LCJqdGkiOiIwZjk4MmFjYS0zOTQ5LTQyNTUtYWZmMC1iMmEwYWI5ZjQ0ZTAifQ.97em_MBb1Owa3leKpfvqGqNUVViqVISwNDqXeRCcMGc"
+}

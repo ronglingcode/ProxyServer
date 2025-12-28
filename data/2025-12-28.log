@@ -1,0 +1,203 @@
+[08:47:08.155] Databento timeseries.get_range request
+[08:47:08.156]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[08:47:08.568] Databento API error: 401 Unauthorized
+[08:47:08.568] Error details: {"detail":"Not authenticated"}
+[08:50:12.395] Databento timeseries.get_range request
+[08:50:12.396]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[08:50:12.398] Authorization header received: Bearer db-R8ss8FPVgH...
+[08:50:12.400] Extracted API key from Bearer token
+[08:50:12.843] Databento API error: 401 Unauthorized
+[08:50:12.844] Error details: {"detail":"Not authenticated"}
+[08:50:12.845] Request URL: https://hist.databento.com/v0/timeseries.get_range
+[08:50:12.845] Request headers sent: Authorization: db-R8ss8FP...
+[08:51:21.873] Databento timeseries.get_range request
+[08:51:21.874]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[08:51:21.876] Authorization header received: Bearer db-R8ss8FPVgH...
+[08:51:21.877] Extracted API key from Bearer token
+[08:51:21.877] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[08:51:22.344] Databento API error: 401 Unauthorized
+[08:51:22.345] Error details: {"detail":"Not authenticated"}
+[08:51:22.345] Request URL: https://hist.databento.com/v0/timeseries.get_range
+[08:51:22.346] Request headers sent: Authorization: db-R8ss8FP...
+[08:54:50.229] Databento timeseries.get_range request
+[08:54:50.230]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[08:54:50.233] Authorization header received: Bearer db-R8ss8FPVgH...
+[08:54:50.233] Extracted API key from Bearer token
+[08:54:50.233] API key: Bearer db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[08:54:50.664] Databento API error: 401 Unauthorized
+[08:54:50.665] Error details: {"detail":"Not authenticated"}
+[08:54:50.666] Request URL: https://hist.databento.com/v0/timeseries.get_range
+[08:54:50.667] Request headers sent: Authorization: Bearer db-...
+[08:58:04.884] Databento timeseries.get_range request
+[08:58:04.884]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[08:58:04.885] Authorization header received: Bearer db-R8ss8FPVgH...
+[08:58:04.886] Extracted API key from Bearer token
+[08:58:04.886] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[08:58:04.886] Using Basic Authentication
+[08:58:05.297] Databento API error: 422 Unprocessable Entity
+[08:58:05.297] Error details: {"detail":[{"type":"missing","loc":["body","dataset"],"msg":"Field required","input":null,"url":"https://errors.pydantic.dev/2.11/v/missing"},{"type":"missing","loc":["body","start"],"msg":"Field required","input":null,"url":"https://errors.pydantic.dev/2.11/v/missing"}]}
+[08:58:05.298] Request URL: https://hist.databento.com/v0/timeseries.get_range
+[08:58:05.299] Request headers sent: Authorization: Basic (using API key: db-R8ss8FP...)
+[09:01:17.289] Databento timeseries.get_range request
+[09:01:17.290] Request body type: object
+[09:01:17.290] Request body keys: dataset, start, end, symbols, schema
+[09:01:17.290]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[09:01:17.292] Authorization header received: Bearer db-R8ss8FPVgH...
+[09:01:17.292] Extracted API key from Bearer token
+[09:01:17.293] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[09:01:17.293] Using Basic Authentication
+[09:01:17.293] Request body JSON: {"dataset":"DBEQ.BASIC","start":"2024-04-03T08:00:00","end":"2024-04-03T14:00:00","symbols":["GOOG","GOOGL"],"schema":"mbo"}
+[09:01:17.710] Databento API error: 422 Unprocessable Entity
+[09:01:17.711] Error details: {"detail":[{"type":"missing","loc":["body","dataset"],"msg":"Field required","input":null,"url":"https://errors.pydantic.dev/2.11/v/missing"},{"type":"missing","loc":["body","start"],"msg":"Field required","input":null,"url":"https://errors.pydantic.dev/2.11/v/missing"}]}
+[09:01:17.711] Request URL: https://hist.databento.com/v0/timeseries.get_range
+[09:01:17.712] Request headers sent: Authorization: Basic (using API key: db-R8ss8FP...)
+[09:02:27.036] Databento timeseries.get_range request
+[09:02:27.036] Request body type: object
+[09:02:27.037] Request body keys: dataset, start, end, symbols, schema
+[09:02:27.037]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo"
+}
+[09:02:27.039] Authorization header received: Bearer db-R8ss8FPVgH...
+[09:02:27.039] Extracted API key from Bearer token
+[09:02:27.040] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[09:02:27.040] Using Basic Authentication
+[09:02:27.041] Form data: dataset=DBEQ.BASIC&start=2024-04-03T08%3A00%3A00&end=2024-04-03T14%3A00%3A00&schema=mbo&symbols=GOOG&symbols=GOOGL
+[09:02:29.919] Databento response (binary) received: 15600585 bytes
+[09:05:06.188] Databento timeseries.get_range request
+[09:05:06.188] Request body type: object
+[09:05:06.189] Request body keys: dataset, start, end, symbols, schema, encoding
+[09:05:06.189]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo",
+  "encoding": "json"
+}
+[09:05:06.190] Authorization header received: Bearer db-R8ss8FPVgH...
+[09:05:06.191] Extracted API key from Bearer token
+[09:05:06.191] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[09:05:06.191] Using Basic Authentication
+[09:05:06.192] Form data: dataset=DBEQ.BASIC&start=2024-04-03T08%3A00%3A00&end=2024-04-03T14%3A00%3A00&schema=mbo&symbols=GOOG&symbols=GOOGL&encoding=json
+[09:05:08.022] Error in Databento proxy request
+[09:05:08.023]
+{}
+[09:07:17.006] Databento timeseries.get_range request
+[09:07:17.007] Request body type: object
+[09:07:17.007] Request body keys: dataset, start, end, symbols, schema, encoding
+[09:07:17.007]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo",
+  "encoding": "json"
+}
+[09:07:17.009] Authorization header received: Bearer db-R8ss8FPVgH...
+[09:07:17.009] Extracted API key from Bearer token
+[09:07:17.010] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[09:07:17.010] Using Basic Authentication
+[09:07:17.011] Form data: dataset=DBEQ.BASIC&start=2024-04-03T08%3A00%3A00&end=2024-04-03T14%3A00%3A00&schema=mbo&symbols=GOOG&symbols=GOOGL&encoding=json
+[09:07:18.869] Error in Databento proxy request
+[09:07:18.870]
+{}
+[09:10:00.564] Databento timeseries.get_range request
+[09:10:00.565] Request body type: object
+[09:10:00.565] Request body keys: dataset, start, end, symbols, schema, encoding
+[09:10:00.566]
+{
+  "dataset": "DBEQ.BASIC",
+  "start": "2024-04-03T08:00:00",
+  "end": "2024-04-03T14:00:00",
+  "symbols": [
+    "GOOG",
+    "GOOGL"
+  ],
+  "schema": "mbo",
+  "encoding": "json"
+}
+[09:10:00.567] Authorization header received: Bearer db-R8ss8FPVgH...
+[09:10:00.567] Extracted API key from Bearer token
+[09:10:00.568] API key: db-R8ss8FPVgHKcUTkCpNBxYA49DPX85
+[09:10:00.568] Using Basic Authentication
+[09:10:00.570] Form data: dataset=DBEQ.BASIC&start=2024-04-03T08%3A00%3A00&end=2024-04-03T14%3A00%3A00&schema=mbo&symbols=GOOG&symbols=GOOGL&encoding=json
+[09:10:02.708] Databento response (JSON) received, length: 42165068 chars
+[09:10:02.709] Failed to parse as JSON: Unexpected token { in JSON at position 279
+[09:10:02.710] Response preview: {"ts_recv":"1712142000903881953","hd":{"ts_event":"1712142000903655145","rtype":160,"publisher_id":39,"instrument_id":7152},"action":"A","side":"B","price":"152800000000","size":200,"channel_id":5,"order_id":"15774693323702364","flags":130,"ts_in_delta":208227,"sequence":14623}
+{"ts_recv":"1712142000903887026","hd":{"ts_event":"1712142000903655454","rtype":160,"publisher_id":39,"instrument_id":7152},"action":"A","side":"A","price":"155200000000","size":200,"channel_id":5,"order_id":"157746933237

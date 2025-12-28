@@ -1,0 +1,240 @@
+06:37:05
+{
+  "short_answer": "Hold short, monitor VWAP.",
+  "full_answer": "- [Current Price Action]: TSLA is trading below VWAP and inflection level, aligning with the short VWAP continuation setup. Volume is declining, suggesting potential weakness.\n- [Trade Management]: Keep current stop loss at $495.28. Monitor for a 1-minute candle close above VWAP before adjusting stops. Consider taking partials near premarket low ($486.4)."
+}
+06:38:03
+{
+  "short_answer": "Maintain stop, watch VWAP.",
+  "full_answer": "- [Price Action]: Current price is above entry and near VWAP, indicating potential for a retracement to VWAP.\n- [Trade Management]: Maintain stop loss at high of day. Monitor if a full candle closes above VWAP before considering adjusting the position further."
+}
+06:41:04
+{
+  "short_answer": "Hold, watch VWAP closely.",
+  "full_answer": "- [Price Action]: TSLA is currently below VWAP and has tested it, consistent with a short VWAP continuation strategy.\n- [Trade Management]: Maintain short position, with VWAP as stop. Consider partial exits near premarket low ($486.4) and ATR targets."
+}
+06:42:03
+{
+  "short_answer": "Hold and trail stop.",
+  "full_answer": "- [Price Action Insight]: Price is consolidating between premarket low (486.4) and vwap (489.36), showing signs of a potential breakdown.\n- [Trade Management]: Hold the short position, target premarket low for partial exit, keep stop at high of the day. If a 1-minute candle closes above vwap, consider adjusting strategy."
+}
+06:43:04
+{
+  "short_answer": "Hold, watch VWAP closely.",
+  "full_answer": "- [current price action]: TSLA is trading below VWAP and inflection level, supporting the short VWAP continuation strategy.\n- [trade management]: Hold position as the price is below VWAP and hasn't closed above it. Consider further partial exits near 486.4 (premarket low) and 482. Monitor VWAP for potential stop-out if a full candle closes above it."
+}
+06:43:49
+{
+  "short_answer": "Hold short; watch VWAP.",
+  "full_answer": "- [Current Price Action]: Price remains below VWAP, respecting the short setup as per tradebook.\n- [Trade Management]: Keep VWAP as stop; consider holding towards targets if price trends below moving average."
+}
+06:44:03
+{
+  "short_answer": "Hold, monitor VWAP closely.",
+  "full_answer": "- [Price action]: TSLA is below VWAP and inflection level, respecting the Short VWAP Continuation setup.\n- [Trade management]: Maintain the short position, consider adding around VWAP if price retraces without closing above it. Monitor for breakdown below premarket low (486.4) for further adding or holding towards targets."
+}
+06:45:04
+{
+  "short_answer": "Hold, watch 5-min candles.",
+  "full_answer": "- [Price Action]: Price is below VWAP and inflection level, supporting your short position. It's near the premarket low, an area of potential support.\n- [Trade Management]: Since it's 15 minutes into the session, monitor 5-minute candles for retracement. Trail the stop to the high of the second 5-minute candle if a retracement occurs. Hold shorts unless a candle closes above VWAP."
+}
+06:46:02
+{
+  "short_answer": "Hold and manage stop.",
+  "full_answer": "- [Price action]: TSLA is below both VWAP and inflection level, supporting the short continuation strategy.\n- [Trade management]: Maintain the position, consider trailing stop at the high of the second 5-minute candle if price remains below VWAP."
+}
+06:47:03
+{
+  "short_answer": "Hold and adjust stops.",
+  "full_answer": "- [Price action]: TSLA is trending below VWAP since open, confirming the short VWAP continuation setup. The current price is nearing the premarket low, which is a default target.\n- [Trade management]: Maintain the position as long as price stays below VWAP. Consider taking partial profits if the price breaks below premarket low. Adjust stop loss to the high of the 2nd 5-minute candle after 30 minutes since open."
+}
+06:48:04
+{
+  "short_answer": "Hold short, manage stop.",
+  "full_answer": "- [Price Action]: Price remains below VWAP and inflection level, supporting the short continuation strategy.\n- [Trade Management]: Maintain short position, consider moving stop to the high of the recent 5-minute candle to lock in gains while allowing flexibility."
+}
+06:49:03
+{"short_answer":"Hold towards targets","full_answer":"- [Current Price Action]: Price is trending below VWAP and inflection level, aligning with short VWAP continuation strategy. \n- [Trade Management]: Continue to hold position; target premarket low $486.4 for further partials. Adjust stop to a close above VWAP if 30% size remains."}
+06:50:03
+{
+  "short_answer": "Hold, monitor VWAP.",
+  "full_answer": "- [Price action insight]: Price is consolidating below VWAP and inflection level, aligning with short continuation setup. Recent volume supports downward movement.\n- [Trade management]: Hold position as long as price stays below VWAP. Consider trailing stop based on high of recent 5-minute candle if trend continues downward."
+}
+06:51:04
+{
+  "short_answer": "Hold and monitor VWAP.",
+  "full_answer": "- [Current price action]: The price is near VWAP after testing it, indicating potential resistance. Price is below the inflection level, supporting the short position.\n- [Trade management]: Hold the remaining position unless a full candle closes above VWAP. Consider partial exits near premarket low. Adjust stop loss if a 15-minute candle closes above VWAP."
+}
+07:05:04
+{"short_answer": "Hold and monitor closely","full_answer": "- [Price action insight]: TSLA is consolidating near your entry, with current price below VWAP and inflection level, indicating short bias remains valid. - [Trade management]: Maintain stop loss at $495.28. Consider partial exits at premarket low $486.4, then $482, $480. Monitor for any candle closing above VWAP for potential stop adjustment."}
+07:06:02
+{
+  "short_answer": "Hold, watch for VWAP test",
+  "full_answer": "- [Price Action]: Current price at $492.26 is above VWAP, potentially breaking the short setup condition. Monitor for a candle close above VWAP to consider exiting.\n- [Trade Management]: Hold position for now; a 1-minute candle closing above VWAP will trigger exit. Consider partial exits at premarket low ($486.4) if price moves down."
+}
+07:11:04
+{
+  "short_answer": "Hold, watch below vwap.",
+  "full_answer": "- [Price action]: The price is below VWAP and inflection level, aligning with the short VWAP continuation strategy.\n- [Trade management]: The price is trending below the 1-minute moving averages, so hold the short. Consider partials at 486.4 and 482."
+}
+07:12:02
+{
+  "short_answer": "Hold short towards targets.",
+  "full_answer": "- [Price action]: Price is below VWAP and inflection level, aligning with short strategy.\n- [Trade management]: Hold position, as price is below VWAP and trending down. Consider taking partial profits at 486.4 (premarket low) and 482."
+}
+07:13:06
+{
+  "short_answer": "Hold, watch vwap closely.",
+  "full_answer": "- [market analysis]: TSLA is below vwap and inflection level, aligning with the Short VWAP Continuation strategy. Recent 1-minute candles are trending below moving averages.\n- [trade management]: Maintain short position as vwap continues to act as resistance. Consider partial exits near premarket low at 486.4, and adjust stop to a 1-minute candle close above vwap if position is reduced to 30%."
+}
+07:14:03
+{"short_answer": "Hold; adjust stop to VWAP","full_answer": "- [Current Price Action]: Price is consolidating near VWAP, and the short position has not yet failed as VWAP is not reclaimed.\n- [Trade Management]: Hold the short, adjust stop to VWAP as it acts as resistance. Consider partial profit near premarket low (486.4) next."}
+07:15:04
+{
+  "short_answer": "Evaluate for consolidation.",
+  "full_answer": "- [Price Action]: The price is consolidating near VWAP, suggesting indecision and potential choppiness. - [Trade Management]: Hold the short position, avoiding immediate action. Consider taking partial exits near premarket low or adding near VWAP if further breakdown occurs."
+}
+07:22:03
+{
+  "short_answer": "Hold short, watch VWAP.",
+  "full_answer": "- [Price action]: Current price at 489.92 is below VWAP and key inflection level, supporting short position continuity.\n- [Trade management]: Hold short until a 1-minute candle closes above VWAP. Consider next target at premarket low of 486.4."
+}
+07:23:09
+{
+  "short_answer": "Hold position, target 486.4",
+  "full_answer": "- [Current Setup]: TSLA is trading below both VWAP and inflection level, indicating a continuation of the short setup. Price is near premarket low.\n- [Trade Management]: Hold the short position, targeting the premarket low of 486.4 for partial profits. Keep stop loss at VWAP as price hasn't reclaimed it. Monitor for candle closes above VWAP for potential stop adjustment."
+}
+07:24:05
+{"short_answer": "Hold short, monitor VWAP.", "full_answer": "- [Price Action Insight]: TSLA is trading below VWAP and inflection level, supporting short continuation. No close above VWAP observed, maintaining bearish bias.\n- [Trade Management]: Hold short position, watch for VWAP reclaim or close above VWAP for stop. Consider partial exit at premarket low 486.4 as target."}
+07:25:06
+{
+  "short_answer": "Hold and target lower.",
+  "full_answer": "- [Price Action]: Price is below VWAP and inflection level, confirming short setup under tradebook criteria.\n- [Trade Management]: Maintain position aiming for targets below premarket low (486.4), as price is below VWAP. Consider partials at 482 and 480."
+}
+07:26:06
+{
+  "short_answer": "Hold, target premarket low.",
+  "full_answer": "- [price action insight]: TSLA is trending below VWAP and moving averages, maintaining the short setup. Current price is near premarket low, a key target area.\n- [trade management]: Maintain the short position towards the premarket low of 486.4 as the next target. Consider tighter stop loss above the recent 15-minute high if price starts reclaiming moving averages."
+}
+07:27:04
+{
+  "short_answer": "Hold short, target premarket low.",
+  "full_answer": "- [Current position]: Price is below both VWAP and inflection level, aligned with short VWAP continuation strategy.\n- [Trade management]: Hold the short position as price trends below moving averages; aim for premarket low of 486.4 for partial exits."
+}
+07:28:03
+{
+  "short_answer": "Hold, consider tightening stop.",
+  "full_answer": "- [Current price action]: TSLA is consolidating near VWAP, showing no clear direction. Price is below the inflection level and VWAP, supporting your short position.\n- [Trade management]: Hold short position, but consider moving stop loss to the high of the recent 5-minute candle (491.605) to protect profits."
+}
+07:29:07
+{
+  "short_answer": "Hold, trail using 15-min.",
+  "full_answer": "- [Price Action]: The price is below vwap and inflection level, which aligns with the short VWAP continuation strategy. It's consolidating near the premarket low, but not breaking below it yet.\n- [Trade Management]: Hold the short position as price is trending below vwap. Trail the stop using the high of the second 15-minute candle, which helps lock in profits while allowing room for potential downside movement."
+}
+07:30:05
+{
+  "short_answer": "Hold and manage downtrend",
+  "full_answer": "- [Price Action Insight]: TSLA is trading below VWAP and inflection level, indicating a potential continuation of the downtrend. Current price is holding below VWAP, supporting the short thesis.\n- [Trade Management]: Maintain the position as price remains below VWAP. Consider adding to the short if price nears VWAP without reclaiming it. Use a trailing stop based on 5-minute candles to lock in profits."
+}
+07:31:05
+{
+  "short_answer": "Hold; trend below MA.",
+  "full_answer": "- [Price action]: TSLA is trending below the 5-period moving average for over 5 candles, indicating a sustained downtrend.\n- [Trade management]: Maintain the short position as price is below VWAP and moving averages. Consider holding towards targets unless conditions to fail (candle closing above MA or VWAP) occur."
+}
+07:32:14
+{
+  "short_answer": "Hold short towards targets.",
+  "full_answer": "- [Current Position]: Price remains below VWAP and inflection level, supporting the short position. Volume is consistent with a downward trend below VWAP.\n- [Trade Management]: Maintain the position towards the predefined targets as the current market condition aligns with the short VWAP continuation strategy. No need to adjust the stop unless a full candle closes above VWAP."
+}
+07:33:02
+{
+  "short_answer": "Hold short, monitor trend.",
+  "full_answer": "- [Price Action]: Current price is below both VWAP and inflection level, aligning with short continuation strategy.\n- [Trade Management]: Hold short position as price trends below moving averages; monitor for continued trend and adjust stop if trend reverses."
+}
+07:34:03
+{
+  "short_answer": "Hold and trail stop.",
+  "full_answer": "- [Market Analysis]: Current price is below vwap and inflection level, supporting the short position. Price action is weak with a downward trend.\n- [Trade Management]: Hold short position; consider trailing stop based on recent 5-minute high to 490.7, allowing room for further downside."
+}
+07:35:02
+{
+  "short_answer": "Hold position; trail stop.",
+  "full_answer": "- [Price action]: Price is below VWAP and inflection level, indicating continuation of downward trend. Price is near premarket low.\n- [Trade management]: Hold short position and trail stop using recent 5-minute candle highs. Look to take partial profits at pre-defined targets of 482 and 480."
+}
+07:36:03
+{
+    "short_answer": "Hold position; trend intact.",
+    "full_answer": "- [Current Price Action]: TSLA is trending below VWAP and inflection level, indicating a downtrend continuation; price is below moving averages.\n- [Trade Management]: Hold short position towards targets as price remains below VWAP and inflection level; consider adding if it breaks premarket low. Maintain stop at high of day."
+}
+07:37:03
+{
+  "short_answer": "Hold short, target 482",
+  "full_answer": "- [Price action]: TSLA is trending down below VWAP, confirming a continuation of the short setup. Current price is near intraday low.\n- [Trade management]: Maintain the short position. Next target at 482. Since position size is low, allow more room for fluctuations and hold until a full candle closes above VWAP."
+}
+07:38:08
+{
+  "short_answer": "Hold, trail stop below MA",
+  "full_answer": "- [current price action]: TSLA continues to trade below the vwap and inflection level, confirming bearish momentum in alignment with the Short VWAP Continuation strategy.\n- [trade management]: Hold position as price trends below moving averages. Trail stop below the recent 5-minute high, allowing room for fluctuation while protecting gains."
+}
+07:39:06
+{
+  "short_answer": "Hold position, trail stop.",
+  "full_answer": "- [Price action insight]: TSLA is trending below VWAP and moving averages, indicating bearish momentum. Current price is near intraday low, which aligns with short bias.\n- [Trade management]: With 92 shares left, hold the position aiming for 480 as a potential target, given the bearish trend. Consider trailing stop above recent highs to lock in profits while allowing room for downward movement."
+}
+07:40:02
+{"short_answer":"Hold towards targets","full_answer":"- [Price action]: Current price is below both VWAP and inflection level, supporting the short continuation strategy.\n- [Trade management]: Maintain short position as no candle has closed above VWAP; hold towards targets at 482 and 480."}
+07:40:57
+{
+  "short_answer": "Hold, trail stop to ATR.",
+  "full_answer": "- [Price action insight]: Price is trending below moving averages and approaching premarket low, indicating continued bearish momentum.\n- [Trade management]: Hold the short position, trail the stop loss to the ATR target of $480 to maximize profits as long as the trend continues below moving averages."
+}
+07:41:04
+{
+  "short_answer": "Hold short, watch vwap.",
+  "full_answer": "- [Market Analysis]: Price is trending down below VWAP and has not tested the inflection level, maintaining the short thesis.\n- [Trade Management]: With 30% position left, allow flexibility; hold position as long as no full candle closes above VWAP. Consider trailing the stop using 5-minute candle highs for added protection."
+}
+07:42:06
+{
+  "short_answer": "Hold towards target $482.",
+  "full_answer": "- [current price action]: Price continues below VWAP, forming lower lows, confirming short bias.\n- [trade management]: Maintain short position; with 46 shares left, hold towards the target of $482, respecting VWAP as dynamic resistance."
+}
+07:43:02
+{
+  "short_answer": "Hold towards next target",
+  "full_answer": "- [Price Action]: Price is trending below VWAP and inflection level, aligning with the short VWAP continuation strategy.\n- [Trade Management]: Hold the remaining position towards the next target, $482, as price is below VWAP. Use a candle close above VWAP as a stop condition."
+}
+07:44:02
+{
+  "short_answer": "Hold until 482 target.",
+  "full_answer": "- [price action]: TSLA is trending below VWAP and moving averages, indicating bearish momentum. The price is approaching the premarket low of 486.4, a significant target for partial exits.\n- [trade management]: Continue holding the short position; the next target is 482. With only 46 shares remaining, allow more room for fluctuation. Adjust the stop loss to the high of the 2nd 15-minute candle if needed."
+}
+07:45:03
+{
+  "short_answer": "Hold position, monitor trends.",
+  "full_answer": "- [Price Action Insight]: Price is trending below VWAP and has not tested the inflection level, aligning with the short VWAP continuation strategy.\n- [Trade Management]: Hold the current position, monitor for any candle closing above VWAP as a potential stop trigger. Continue to target premarket low, then ATR targets."
+}
+07:46:03
+{
+  "short_answer": "Hold position, manage targets",
+  "full_answer": "- [Price Action Insight]: TSLA is trending below the moving average, indicating potential continuation of the downtrend.\n- [Trade Management]: Hold the short position towards the remaining targets of 482 and 480, as the price remains under the VWAP and inflection level, with a trailing stop at the high of the last 15-minute candle."
+}
+07:47:03
+{
+  "short_answer": "Hold; approaching 482 target.",
+  "full_answer": "- [price action]: Current price is below vwap and approaching the 482 target, indicating the short trade is working well.\n- [trade management]: With only 46 shares left, hold the position for the next target at 482. Use a trailing stop near recent highs to protect gains."
+}
+07:48:02
+{
+  "short_answer": "Hold and trail stop.",
+  "full_answer": "- [Price action]: TSLA is trending below vwap and near the premarket low, supporting the continuation short setup. - [Trade management]: Trail stop above recent 5-minute candle highs to lock in profit while allowing room for potential further downside. Maintain short as long as TSLA stays below vwap."
+}
+07:49:03
+{
+  "short_answer": "Hold position, watch MA trend.",
+  "full_answer": "- [Price Action Insight]: TSLA is trending below the moving averages, indicating a bearish momentum consistent with the short VWAP continuation strategy.\n- [Trade Management]: Continue to hold the short position towards targets as the price maintains a trend below moving averages. Watch for a candle close above the moving average or a golden cross to reconsider holding."
+}
+07:50:02
+{
+  "short_answer": "Hold for breakdown.",
+  "full_answer": "- [Current Trend]: Price is trending below vwap and inflection level, supporting the short continuation strategy.\n- [Trade Management]: Hold remaining position as price is trending lower, nearing premarket low target. Consider partial exits at 482 and 480 if breakdown continues."
+}

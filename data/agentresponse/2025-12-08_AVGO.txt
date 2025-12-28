@@ -1,0 +1,24 @@
+06:31:04
+- [Trade analysis]: Price is above VWAP and trending upward, indicating a continuation of the long setup. Intraday high is being tested, supporting bullish momentum.
+
+- [Trade management]: Hold long position as price is above VWAP and has not tested the inflection level. Consider partial exits near premarket high at 406.13. Adjust stop if VWAP is lost.
+06:32:03
+- [Price Action]: Strong upward move with price above VWAP, inflection, and premarket high.
+- [Targets]: Consider partial at 1 ATR or higher; current price is near premarket high.
+- [Trade Management]: Hold position above VWAP; stop out if a full candle closes below.
+06:33:03
+- [Current Position]: AVGO is trading above VWAP and inflection level, maintaining a bullish stance.
+- [Targets]: Next target is to hold towards 1 ATR above entry while trailing stop below 5-minute lows.
+- [Trade Management]: Since 40% of shares remain, allow flexibility with a stop only if a candle closes below VWAP. Keep trailing stop at 404.36, the low of the 5-minute candle.
+06:34:02
+- [Consolidation]: Price is hovering above VWAP and near premarket high, indicating potential consolidation.
+- [Trade Management]: Hold position; stop remains at $401.2 unless a candle closes below VWAP. Consider adding above premarket high breakout.
+- [Trend Consideration]: Price is above moving averages; maintain position unless trend fails with candle close below or moving averages crossing down.
+06:35:03
+- [Price action]: Price is consolidating near VWAP; it tested but held above VWAP.
+
+- [Trade management]: With remaining 10% position, allow flexibility. Hold unless a full candle closes below VWAP. Consider adding if retraced near VWAP with volume support.
+06:39:03
+- [Market structure]: Price is holding above VWAP and recently tested it, indicating support.
+- [Trade management]: Keep VWAP as support; consider adding if price holds above $404 and approaches the premarket high.
+- [Targets]: Aim for premarket high at $406.13 for further partial exits.
