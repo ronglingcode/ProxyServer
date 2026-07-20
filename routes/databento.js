@@ -2,6 +2,9 @@ const express = require('express')
 const router = express.Router()
 const fs = require('fs')
 const path = require('path')
+const logDirectory = path.join(__dirname, '..', 'data', 'logs')
+
+fs.mkdirSync(logDirectory, { recursive: true })
 
 router.use(express.json())
 
@@ -17,7 +20,7 @@ function getLogFilename() {
     const month = String(now.getMonth() + 1).padStart(2, '0');
     const day = String(now.getDate()).padStart(2, '0');
     const filename = `${year}-${month}-${day}.log`;
-    return path.join(__dirname, '..', 'data', filename);
+    return path.join(logDirectory, filename);
 }
 
 // Helper function to print logs with timestamp
