@@ -55,6 +55,177 @@ class ReplayStorage {
         return value
     }
 
+    async findSessionRecordings(marketDate, symbol) {
+        const symbolDir = path.join(this.root, marketDate, symbol)
+        await fsp.mkdir(symbolDir, { recursive: true })
+        const entries = await fsp.readdir(symbolDir, { withFileTypes: true })
+        const recordings = []
+        for (const entry of entries) {
+            if (!entry.isDirectory()) continue
+            const recordingDir = path.join(symbolDir, entry.name)
+            try {
+                const manifest = await readJson(path.join(recordingDir, 'manifest.json'))
+                if (manifest.marketDate === marketDate && manifest.symbol === symbol) {
+                    recordings.push({ manifest, recordingDir })
+                }
+            } catch (error) {
+                if (error.code !== 'ENOENT') {
+                    console.error(`Failed to inspect replay recording ${entry.name}:`, error.message)
+                }
+            }
+        }
+        return recordings
+    }
+
+    async mergeSessionRecordings(recordings) {
+        if (recordings.length <= 1) return recordings[0]
+        for (const recording of recordings) {
+            const recordingId = recording.manifest.recordingId
+            if (this.activeCaptures.has(recordingId) || this.active.has(recordingId)) {
+                throw new Error('cannot combine recordings while a capture is active')
+            }
+        }
+
+        const ordered = [...recordings].sort((a, b) => {
+            if (a.manifest.bootstrapAvailable !== b.manifest.bootstrapAvailable) {
+                return a.manifest.bootstrapAvailable ? -1 : 1
+            }
+            return a.manifest.cutoverEpochMs - b.manifest.cutoverEpochMs ||
+                a.manifest.createdAtEpochMs - b.manifest.createdAtEpochMs
+        })
+        const canonical = ordered[0]
+        const canonicalId = canonical.manifest.recordingId
+        const canonicalDir = canonical.recordingDir
+        const captureStartedAtEpochMs = Math.min(...recordings.map(item => item.manifest.captureStartedAtEpochMs))
+        const temporaryDir = `${canonicalDir}.merge-${randomUUID().slice(0, 8)}`
+        const backupDir = `${canonicalDir}.backup-${randomUUID().slice(0, 8)}`
+        let swapped = false
+
+        try {
+            await fsp.mkdir(temporaryDir, { recursive: false })
+            const manifest = {
+                ...canonical.manifest,
+                captureStartedAtEpochMs,
+                finalizedAtEpochMs: Math.max(...recordings.map(item => item.manifest.finalizedAtEpochMs || 0)),
+                firstMarketEventEpochMs: 0,
+                lastMarketEventEpochMs: 0,
+                eventCount: 0,
+                tradeRecordCount: 0,
+                quoteEventCount: 0,
+                lastSequence: -1,
+                droppedCaptureBatchCount: recordings.reduce((total, item) => {
+                    return total + Math.max(0, Number(item.manifest.droppedCaptureBatchCount) || 0)
+                }, 0),
+                bootstrapAvailable: false,
+                status: 'incomplete',
+                gaps: recordings.flatMap(item => item.manifest.gaps || []),
+            }
+
+            if (canonical.manifest.bootstrapAvailable) {
+                await fsp.copyFile(
+                    path.join(canonicalDir, 'bootstrap.json'),
+                    path.join(temporaryDir, 'bootstrap.json'),
+                )
+                manifest.bootstrapAvailable = true
+            }
+
+            let stream = null
+            let chunkIndex = 0
+            let chunkSize = 0
+            let lastArrivalOffsetMs = 0
+            const openStream = () => {
+                const filename = `events-${String(chunkIndex).padStart(5, '0')}.jsonl`
+                stream = fs.createWriteStream(path.join(temporaryDir, filename), { flags: 'a' })
+            }
+            const closeStream = async () => {
+                if (!stream) return
+                stream.end()
+                await once(stream, 'close')
+                stream = null
+            }
+            const writeEvent = async event => {
+                const line = `${JSON.stringify(event)}\n`
+                const lineBytes = Buffer.byteLength(line)
+                if (!stream) openStream()
+                if (chunkSize > 0 && chunkSize + lineBytes > this.chunkBytes) {
+                    await closeStream()
+                    chunkIndex++
+                    chunkSize = 0
+                    openStream()
+                }
+                chunkSize += lineBytes
+                if (!stream.write(line)) await once(stream, 'drain')
+            }
+
+            const states = await Promise.all(recordings.map(async recording => {
+                const iterator = this.readEvents(recording.manifest.recordingId)[Symbol.asyncIterator]()
+                return { recording, iterator, next: await iterator.next() }
+            }))
+            while (true) {
+                let selected = null
+                let selectedArrivalEpochMs = Infinity
+                for (const state of states) {
+                    if (state.next.done) continue
+                    const arrivalEpochMs = state.recording.manifest.captureStartedAtEpochMs +
+                        Math.max(0, Number(state.next.value.arrivalOffsetMs) || 0)
+                    if (arrivalEpochMs < selectedArrivalEpochMs) {
+                        selected = state
+                        selectedArrivalEpochMs = arrivalEpochMs
+                    }
+                }
+                if (!selected) break
+
+                const storedEvent = selected.next.value
+                lastArrivalOffsetMs = Math.max(lastArrivalOffsetMs, selectedArrivalEpochMs - captureStartedAtEpochMs)
+                const event = {
+                    ...storedEvent,
+                    sequence: manifest.eventCount,
+                    arrivalOffsetMs: lastArrivalOffsetMs,
+                }
+                manifest.lastSequence = event.sequence
+                manifest.eventCount++
+                manifest.firstMarketEventEpochMs ||= event.marketTimeEpochMs
+                manifest.lastMarketEventEpochMs = Math.max(manifest.lastMarketEventEpochMs, event.marketTimeEpochMs)
+                if (event.message.type === 'timeSaleFlush') {
+                    manifest.tradeRecordCount += event.message.trades.length
+                } else if (event.message.type === 'quote') {
+                    manifest.quoteEventCount++
+                }
+                await writeEvent(event)
+                selected.next = await selected.iterator.next()
+            }
+            await closeStream()
+            await this.writeManifest(temporaryDir, manifest)
+
+            await fsp.rename(canonicalDir, backupDir)
+            try {
+                await fsp.rename(temporaryDir, canonicalDir)
+                swapped = true
+            } catch (error) {
+                await fsp.rename(backupDir, canonicalDir)
+                throw error
+            }
+
+            for (const recording of recordings) {
+                this.directoryCache.delete(recording.manifest.recordingId)
+                if (recording.recordingDir === canonicalDir) continue
+                await fsp.rm(recording.recordingDir, { recursive: true, force: true }).catch(error => {
+                    console.error(`Failed to remove combined replay ${recording.manifest.recordingId}:`, error.message)
+                })
+            }
+            await fsp.rm(backupDir, { recursive: true, force: true }).catch(error => {
+                console.error(`Failed to remove replay merge backup ${backupDir}:`, error.message)
+            })
+            this.directoryCache.set(canonicalId, canonicalDir)
+            return { manifest, recordingDir: canonicalDir }
+        } catch (error) {
+            if (!swapped) {
+                await fsp.rm(temporaryDir, { recursive: true, force: true }).catch(() => {})
+            }
+            throw error
+        }
+    }
+
     async createRecording(input) {
         const marketDate = this.validateDate(input.marketDate)
         const symbol = this.validateSymbol(input.symbol)
@@ -62,9 +233,30 @@ class ReplayStorage {
         if (!Number.isFinite(cutoverEpochMs) || cutoverEpochMs <= 0) {
             throw new Error('invalid cutoverEpochMs')
         }
-        const marketOpenEpochMs = Number(input.marketOpenEpochMs) || cutoverEpochMs + 5 * 60 * 1000
+        const marketOpenEpochMs = Number(input.marketOpenEpochMs) || cutoverEpochMs + 2 * 60 * 1000
         if (!Number.isFinite(marketOpenEpochMs) || marketOpenEpochMs <= 0) {
             throw new Error('invalid marketOpenEpochMs')
+        }
+
+        let recordings = await this.findSessionRecordings(marketDate, symbol)
+        if (recordings.length > 1) {
+            recordings = [await this.mergeSessionRecordings(recordings)]
+        }
+        if (recordings.length === 1) {
+            const { manifest, recordingDir } = recordings[0]
+            if (this.activeCaptures.has(manifest.recordingId) || this.active.has(manifest.recordingId)) {
+                throw new Error('recording already has an active capture client')
+            }
+            manifest.marketOpenEpochMs ||= marketOpenEpochMs
+            manifest.captureStartedAtEpochMs = Math.min(
+                manifest.captureStartedAtEpochMs,
+                Number(input.captureStartedAtEpochMs) || Date.now(),
+            )
+            manifest.finalizedAtEpochMs = 0
+            manifest.status = 'recording'
+            await this.writeManifest(recordingDir, manifest)
+            this.directoryCache.set(manifest.recordingId, recordingDir)
+            return manifest
         }
 
         const recordingId = `${marketDate}_${symbol}_${Date.now()}_${randomUUID().slice(0, 8)}`
@@ -209,9 +401,19 @@ class ReplayStorage {
             throw new Error(`recording is ${manifest.status}`)
         }
         const files = (await fsp.readdir(recordingDir)).filter(name => /^events-\d{5}\.jsonl$/.test(name)).sort()
-        const chunkIndex = files.length
+        let chunkIndex = 0
+        let chunkSize = 0
+        if (files.length > 0) {
+            const lastFilename = files[files.length - 1]
+            chunkIndex = Number(lastFilename.slice(7, 12))
+            chunkSize = (await fsp.stat(path.join(recordingDir, lastFilename))).size
+            if (chunkSize >= this.chunkBytes) {
+                chunkIndex++
+                chunkSize = 0
+            }
+        }
         const stream = fs.createWriteStream(path.join(recordingDir, `events-${String(chunkIndex).padStart(5, '0')}.jsonl`), { flags: 'a' })
-        const writer = { recordingDir, manifest, stream, chunkIndex, chunkSize: 0 }
+        const writer = { recordingDir, manifest, stream, chunkIndex, chunkSize }
         this.active.set(recordingId, writer)
         return writer
     }

@@ -82,6 +82,98 @@ test('records, lists, reads, and finalizes a complete replay', async t => {
     assert.deepEqual(events.map(event => event.sequence), [0, 1])
 })
 
+test('reuses one recording and one event file when the app reloads', async t => {
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), 'proxy-replay-resume-'))
+    t.after(() => fs.rm(root, { recursive: true, force: true }))
+    const storage = new ReplayStorage({ root })
+    const cutoverEpochMs = Date.now() + 60_000
+    const first = await storage.createRecording({
+        marketDate: '2026-07-17',
+        symbol: 'TSLA',
+        cutoverEpochMs,
+        captureStartedAtEpochMs: cutoverEpochMs - 1000,
+    })
+    await storage.writeBootstrap(first.recordingId, buildBootstrap(first))
+    await storage.appendEvents(first.recordingId, [buildEvent(0, cutoverEpochMs)])
+    await storage.finalize(first.recordingId, { complete: false })
+
+    const resumed = await storage.createRecording({
+        marketDate: '2026-07-17',
+        symbol: 'TSLA',
+        cutoverEpochMs: cutoverEpochMs + 30_000,
+        captureStartedAtEpochMs: cutoverEpochMs + 30_000,
+    })
+    assert.equal(resumed.recordingId, first.recordingId)
+    assert.equal(resumed.cutoverEpochMs, cutoverEpochMs)
+    assert.equal(resumed.lastSequence, 0)
+    assert.equal(resumed.status, 'recording')
+
+    await storage.appendEvents(resumed.recordingId, [buildEvent(1, cutoverEpochMs + 30_000)])
+    await storage.finalize(resumed.recordingId, { complete: true })
+
+    const listed = await storage.listRecordings({ date: '2026-07-17', symbol: 'TSLA' })
+    assert.equal(listed.length, 1)
+    assert.equal(listed[0].eventCount, 2)
+    const recordingDir = await storage.findRecordingDir(resumed.recordingId)
+    const eventFiles = (await fs.readdir(recordingDir)).filter(name => /^events-\d{5}\.jsonl$/.test(name))
+    assert.deepEqual(eventFiles, ['events-00000.jsonl'])
+})
+
+test('combines legacy same-day recordings before resuming capture', async t => {
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), 'proxy-replay-combine-'))
+    t.after(() => fs.rm(root, { recursive: true, force: true }))
+    const storage = new ReplayStorage({ root })
+    const cutoverEpochMs = Date.now() + 60_000
+    const first = await storage.createRecording({
+        marketDate: '2026-07-17',
+        symbol: 'TSLA',
+        cutoverEpochMs,
+        captureStartedAtEpochMs: cutoverEpochMs - 1000,
+    })
+    await storage.writeBootstrap(first.recordingId, buildBootstrap(first))
+    await storage.appendEvents(first.recordingId, [buildEvent(0, cutoverEpochMs)])
+    await storage.finalize(first.recordingId, { complete: false })
+
+    const firstDir = await storage.findRecordingDir(first.recordingId)
+    const legacyId = '2026-07-17_TSLA_legacy'
+    const legacyDir = path.join(root, '2026-07-17', 'TSLA', legacyId)
+    await fs.mkdir(legacyDir)
+    const legacyManifest = {
+        ...first,
+        recordingId: legacyId,
+        createdAtEpochMs: first.createdAtEpochMs + 10_000,
+        captureStartedAtEpochMs: first.captureStartedAtEpochMs + 10_000,
+        finalizedAtEpochMs: first.createdAtEpochMs + 20_000,
+        firstMarketEventEpochMs: cutoverEpochMs + 10_000,
+        lastMarketEventEpochMs: cutoverEpochMs + 10_000,
+        eventCount: 1,
+        tradeRecordCount: 1,
+        lastSequence: 0,
+        status: 'incomplete',
+    }
+    await fs.copyFile(path.join(firstDir, 'bootstrap.json'), path.join(legacyDir, 'bootstrap.json'))
+    await fs.writeFile(path.join(legacyDir, 'manifest.json'), `${JSON.stringify(legacyManifest, null, 2)}\n`)
+    await fs.writeFile(
+        path.join(legacyDir, 'events-00000.jsonl'),
+        `${JSON.stringify(buildEvent(0, cutoverEpochMs + 10_000))}\n`,
+    )
+
+    const resumed = await storage.createRecording({
+        marketDate: '2026-07-17',
+        symbol: 'TSLA',
+        cutoverEpochMs: cutoverEpochMs + 20_000,
+    })
+    assert.equal(resumed.recordingId, first.recordingId)
+    assert.equal(resumed.eventCount, 2)
+    assert.equal(resumed.lastSequence, 1)
+    const listed = await storage.listRecordings({ date: '2026-07-17', symbol: 'TSLA' })
+    assert.equal(listed.length, 1)
+    const events = []
+    for await (const event of storage.readEvents(resumed.recordingId)) events.push(event)
+    assert.deepEqual(events.map(event => event.sequence), [0, 1])
+    assert.deepEqual(events.map(event => event.marketTimeEpochMs), [cutoverEpochMs, cutoverEpochMs + 10_000])
+})
+
 test('sequence gaps make a recording incomplete', async t => {
     const root = await fs.mkdtemp(path.join(os.tmpdir(), 'proxy-replay-gap-'))
     t.after(() => fs.rm(root, { recursive: true, force: true }))
